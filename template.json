@@ -1,0 +1,3088 @@
+{
+  "Resources": {
+    "AWS::XRay::Group": {
+      "Type": "AWS::XRay::Group",
+      "Properties": {}
+    },
+    "AWS::EC2::RouteTable": {
+      "Type": "AWS::EC2::RouteTable",
+      "Properties": {}
+    },
+    "AWS::SES::ContactList": {
+      "Type": "AWS::SES::ContactList",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::PortfolioShare": {
+      "Type": "AWS::ServiceCatalog::PortfolioShare",
+      "Properties": {}
+    },
+    "AWS::ACMPCA::CertificateAuthority": {
+      "Type": "AWS::ACMPCA::CertificateAuthority",
+      "Properties": {}
+    },
+    "AWS::GlobalAccelerator::Accelerator": {
+      "Type": "AWS::GlobalAccelerator::Accelerator",
+      "Properties": {}
+    },
+    "AWS::AccessAnalyzer::Analyzer": {
+      "Type": "AWS::AccessAnalyzer::Analyzer",
+      "Properties": {}
+    },
+    "AWS::WAF::IPSet": {
+      "Type": "AWS::WAF::IPSet",
+      "Properties": {}
+    },
+    "AWS::IAM::Group": {
+      "Type": "AWS::IAM::Group",
+      "Properties": {}
+    },
+    "AWS::Backup::BackupPlan": {
+      "Type": "AWS::Backup::BackupPlan",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::RateBasedRule": {
+      "Type": "AWS::WAFRegional::RateBasedRule",
+      "Properties": {}
+    },
+    "AWS::AppIntegrations::EventIntegration": {
+      "Type": "AWS::AppIntegrations::EventIntegration",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::SMSChannel": {
+      "Type": "AWS::Pinpoint::SMSChannel",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverQueryLoggingConfig": {
+      "Type": "AWS::Route53Resolver::ResolverQueryLoggingConfig",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCPeeringConnection": {
+      "Type": "AWS::EC2::VPCPeeringConnection",
+      "Properties": {}
+    },
+    "AWS::Elasticsearch::Domain": {
+      "Type": "AWS::Elasticsearch::Domain",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::EntityType": {
+      "Type": "AWS::FraudDetector::EntityType",
+      "Properties": {}
+    },
+    "AWS::WorkSpaces::Workspace": {
+      "Type": "AWS::WorkSpaces::Workspace",
+      "Properties": {}
+    },
+    "AWS::EMR::InstanceFleetConfig": {
+      "Type": "AWS::EMR::InstanceFleetConfig",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::AssetModel": {
+      "Type": "AWS::IoTSiteWise::AssetModel",
+      "Properties": {}
+    },
+    "AWS::LookoutMetrics::Alert": {
+      "Type": "AWS::LookoutMetrics::Alert",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::SqlInjectionMatchSet": {
+      "Type": "AWS::WAFRegional::SqlInjectionMatchSet",
+      "Properties": {}
+    },
+    "AWS::MediaPackage::Asset": {
+      "Type": "AWS::MediaPackage::Asset",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Route": {
+      "Type": "AWS::ApiGatewayV2::Route",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Workteam": {
+      "Type": "AWS::SageMaker::Workteam",
+      "Properties": {}
+    },
+    "AWS::RAM::ResourceShare": {
+      "Type": "AWS::RAM::ResourceShare",
+      "Properties": {}
+    },
+    "AWS::Kinesis::Stream": {
+      "Type": "AWS::Kinesis::Stream",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::LaunchConfiguration": {
+      "Type": "AWS::AutoScaling::LaunchConfiguration",
+      "Properties": {}
+    },
+    "AWS::SQS::Queue": {
+      "Type": "AWS::SQS::Queue",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGateway": {
+      "Type": "AWS::EC2::TransitGateway",
+      "Properties": {}
+    },
+    "AWS::SageMaker::ImageVersion": {
+      "Type": "AWS::SageMaker::ImageVersion",
+      "Properties": {}
+    },
+    "AWS::EC2::CapacityReservation": {
+      "Type": "AWS::EC2::CapacityReservation",
+      "Properties": {}
+    },
+    "AWS::AppSync::Resolver": {
+      "Type": "AWS::AppSync::Resolver",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationNFS": {
+      "Type": "AWS::DataSync::LocationNFS",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::VoiceChannel": {
+      "Type": "AWS::Pinpoint::VoiceChannel",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCEndpointServicePermissions": {
+      "Type": "AWS::EC2::VPCEndpointServicePermissions",
+      "Properties": {}
+    },
+    "AWS::Route53::RecordSet": {
+      "Type": "AWS::Route53::RecordSet",
+      "Properties": {}
+    },
+    "AWS::WAF::SizeConstraintSet": {
+      "Type": "AWS::WAF::SizeConstraintSet",
+      "Properties": {}
+    },
+    "AWS::ManagedBlockchain::Member": {
+      "Type": "AWS::ManagedBlockchain::Member",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::Dashboard": {
+      "Type": "AWS::CloudWatch::Dashboard",
+      "Properties": {}
+    },
+    "AWS::ECS::Cluster": {
+      "Type": "AWS::ECS::Cluster",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::ServiceActionAssociation": {
+      "Type": "AWS::ServiceCatalog::ServiceActionAssociation",
+      "Properties": {}
+    },
+    "AWS::IAM::Policy": {
+      "Type": "AWS::IAM::Policy",
+      "Properties": {}
+    },
+    "AWS::SageMaker::FeatureGroup": {
+      "Type": "AWS::SageMaker::FeatureGroup",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::Link": {
+      "Type": "AWS::NetworkManager::Link",
+      "Properties": {}
+    },
+    "AWS::StepFunctions::Activity": {
+      "Type": "AWS::StepFunctions::Activity",
+      "Properties": {}
+    },
+    "AWS::CloudFront::KeyGroup": {
+      "Type": "AWS::CloudFront::KeyGroup",
+      "Properties": {}
+    },
+    "AWS::CodeStarConnections::Connection": {
+      "Type": "AWS::CodeStarConnections::Connection",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalytics::ApplicationOutput": {
+      "Type": "AWS::KinesisAnalytics::ApplicationOutput",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::StackSet": {
+      "Type": "AWS::CloudFormation::StackSet",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolRiskConfigurationAttachment": {
+      "Type": "AWS::Cognito::UserPoolRiskConfigurationAttachment",
+      "Properties": {}
+    },
+    "AWS::AppStream::Stack": {
+      "Type": "AWS::AppStream::Stack",
+      "Properties": {}
+    },
+    "AWS::Glue::SchemaVersion": {
+      "Type": "AWS::Glue::SchemaVersion",
+      "Properties": {}
+    },
+    "AWS::EC2::Volume": {
+      "Type": "AWS::EC2::Volume",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayRouteTableAssociation": {
+      "Type": "AWS::EC2::TransitGatewayRouteTableAssociation",
+      "Properties": {}
+    },
+    "AWS::AppSync::GraphQLSchema": {
+      "Type": "AWS::AppSync::GraphQLSchema",
+      "Properties": {}
+    },
+    "AWS::GroundStation::Config": {
+      "Type": "AWS::GroundStation::Config",
+      "Properties": {}
+    },
+    "AWS::IAM::ServiceLinkedRole": {
+      "Type": "AWS::IAM::ServiceLinkedRole",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::ResourceUpdateConstraint": {
+      "Type": "AWS::ServiceCatalog::ResourceUpdateConstraint",
+      "Properties": {}
+    },
+    "AWS::Greengrass::ConnectorDefinitionVersion": {
+      "Type": "AWS::Greengrass::ConnectorDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::AppSync::GraphQLApi": {
+      "Type": "AWS::AppSync::GraphQLApi",
+      "Properties": {}
+    },
+    "AWS::CloudFront::StreamingDistribution": {
+      "Type": "AWS::CloudFront::StreamingDistribution",
+      "Properties": {}
+    },
+    "AWS::SageMaker::DataQualityJobDefinition": {
+      "Type": "AWS::SageMaker::DataQualityJobDefinition",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolIdentityProvider": {
+      "Type": "AWS::Cognito::UserPoolIdentityProvider",
+      "Properties": {}
+    },
+    "AWS::ACMPCA::CertificateAuthorityActivation": {
+      "Type": "AWS::ACMPCA::CertificateAuthorityActivation",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::Filter": {
+      "Type": "AWS::GuardDuty::Filter",
+      "Properties": {}
+    },
+    "AWS::Budgets::BudgetsAction": {
+      "Type": "AWS::Budgets::BudgetsAction",
+      "Properties": {}
+    },
+    "AWS::LakeFormation::Resource": {
+      "Type": "AWS::LakeFormation::Resource",
+      "Properties": {}
+    },
+    "AWS::S3::AccessPoint": {
+      "Type": "AWS::S3::AccessPoint",
+      "Properties": {}
+    },
+    "AWS::SNS::Subscription": {
+      "Type": "AWS::SNS::Subscription",
+      "Properties": {}
+    },
+    "AWS::EFS::MountTarget": {
+      "Type": "AWS::EFS::MountTarget",
+      "Properties": {}
+    },
+    "AWS::Glue::DataCatalogEncryptionSettings": {
+      "Type": "AWS::Glue::DataCatalogEncryptionSettings",
+      "Properties": {}
+    },
+    "AWS::SNS::Topic": {
+      "Type": "AWS::SNS::Topic",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::TagOption": {
+      "Type": "AWS::ServiceCatalog::TagOption",
+      "Properties": {}
+    },
+    "AWS::SageMaker::NotebookInstanceLifecycleConfig": {
+      "Type": "AWS::SageMaker::NotebookInstanceLifecycleConfig",
+      "Properties": {}
+    },
+    "AWS::MediaConnect::FlowSource": {
+      "Type": "AWS::MediaConnect::FlowSource",
+      "Properties": {}
+    },
+    "AWS::QuickSight::Dashboard": {
+      "Type": "AWS::QuickSight::Dashboard",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolGroup": {
+      "Type": "AWS::Cognito::UserPoolGroup",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Deployment": {
+      "Type": "AWS::ApiGateway::Deployment",
+      "Properties": {}
+    },
+    "AWS::LakeFormation::Permissions": {
+      "Type": "AWS::LakeFormation::Permissions",
+      "Properties": {}
+    },
+    "AWS::KMS::Key": {
+      "Type": "AWS::KMS::Key",
+      "Properties": {}
+    },
+    "AWS::Redshift::Cluster": {
+      "Type": "AWS::Redshift::Cluster",
+      "Properties": {}
+    },
+    "AWS::ApplicationInsights::Application": {
+      "Type": "AWS::ApplicationInsights::Application",
+      "Properties": {}
+    },
+    "AWS::CustomerProfiles::Domain": {
+      "Type": "AWS::CustomerProfiles::Domain",
+      "Properties": {}
+    },
+    "AWS::NimbleStudio::StreamingImage": {
+      "Type": "AWS::NimbleStudio::StreamingImage",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::App": {
+      "Type": "AWS::OpsWorks::App",
+      "Properties": {}
+    },
+    "AWS::SageMaker::MonitoringSchedule": {
+      "Type": "AWS::SageMaker::MonitoringSchedule",
+      "Properties": {}
+    },
+    "AWS::EKS::Nodegroup": {
+      "Type": "AWS::EKS::Nodegroup",
+      "Properties": {}
+    },
+    "AWS::Lambda::EventSourceMapping": {
+      "Type": "AWS::Lambda::EventSourceMapping",
+      "Properties": {}
+    },
+    "AWS::AppMesh::Route": {
+      "Type": "AWS::AppMesh::Route",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::ApiGatewayManagedOverrides": {
+      "Type": "AWS::ApiGatewayV2::ApiGatewayManagedOverrides",
+      "Properties": {}
+    },
+    "AWS::AppConfig::Deployment": {
+      "Type": "AWS::AppConfig::Deployment",
+      "Properties": {}
+    },
+    "AWS::CE::CostCategory": {
+      "Type": "AWS::CE::CostCategory",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Authorizer": {
+      "Type": "AWS::ApiGateway::Authorizer",
+      "Properties": {}
+    },
+    "AWS::EC2::EIP": {
+      "Type": "AWS::EC2::EIP",
+      "Properties": {}
+    },
+    "AWS::EC2::LocalGatewayRoute": {
+      "Type": "AWS::EC2::LocalGatewayRoute",
+      "Properties": {}
+    },
+    "AWS::IoT1Click::Project": {
+      "Type": "AWS::IoT1Click::Project",
+      "Properties": {}
+    },
+    "AWS::IoT::CustomMetric": {
+      "Type": "AWS::IoT::CustomMetric",
+      "Properties": {}
+    },
+    "AWS::MediaConvert::Queue": {
+      "Type": "AWS::MediaConvert::Queue",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::DomainName": {
+      "Type": "AWS::ApiGateway::DomainName",
+      "Properties": {}
+    },
+    "AWS::QLDB::Stream": {
+      "Type": "AWS::QLDB::Stream",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::GeoMatchSet": {
+      "Type": "AWS::WAFRegional::GeoMatchSet",
+      "Properties": {}
+    },
+    "AWS::WAFv2::RegexPatternSet": {
+      "Type": "AWS::WAFv2::RegexPatternSet",
+      "Properties": {}
+    },
+    "AWS::Batch::JobDefinition": {
+      "Type": "AWS::Batch::JobDefinition",
+      "Properties": {}
+    },
+    "AWS::DataBrew::Dataset": {
+      "Type": "AWS::DataBrew::Dataset",
+      "Properties": {}
+    },
+    "AWS::GameLift::Fleet": {
+      "Type": "AWS::GameLift::Fleet",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCEndpointConnectionNotification": {
+      "Type": "AWS::EC2::VPCEndpointConnectionNotification",
+      "Properties": {}
+    },
+    "AWS::Lambda::LayerVersion": {
+      "Type": "AWS::Lambda::LayerVersion",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::CustomerGatewayAssociation": {
+      "Type": "AWS::NetworkManager::CustomerGatewayAssociation",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::DocumentationPart": {
+      "Type": "AWS::ApiGateway::DocumentationPart",
+      "Properties": {}
+    },
+    "AWS::CloudFront::CachePolicy": {
+      "Type": "AWS::CloudFront::CachePolicy",
+      "Properties": {}
+    },
+    "AWS::AppMesh::GatewayRoute": {
+      "Type": "AWS::AppMesh::GatewayRoute",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::User": {
+      "Type": "AWS::ElastiCache::User",
+      "Properties": {}
+    },
+    "AWS::SageMaker::UserProfile": {
+      "Type": "AWS::SageMaker::UserProfile",
+      "Properties": {}
+    },
+    "AWS::RDS::DBSubnetGroup": {
+      "Type": "AWS::RDS::DBSubnetGroup",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancing::LoadBalancer": {
+      "Type": "AWS::ElasticLoadBalancing::LoadBalancer",
+      "Properties": {}
+    },
+    "AWS::LakeFormation::DataLakeSettings": {
+      "Type": "AWS::LakeFormation::DataLakeSettings",
+      "Properties": {}
+    },
+    "AWS::IoTFleetHub::Application": {
+      "Type": "AWS::IoTFleetHub::Application",
+      "Properties": {}
+    },
+    "AWS::CodeArtifact::Repository": {
+      "Type": "AWS::CodeArtifact::Repository",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::EventStream": {
+      "Type": "AWS::Pinpoint::EventStream",
+      "Properties": {}
+    },
+    "AWS::PinpointEmail::ConfigurationSetEventDestination": {
+      "Type": "AWS::PinpointEmail::ConfigurationSetEventDestination",
+      "Properties": {}
+    },
+    "AWS::MWAA::Environment": {
+      "Type": "AWS::MWAA::Environment",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Stage": {
+      "Type": "AWS::ApiGatewayV2::Stage",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Model": {
+      "Type": "AWS::ApiGateway::Model",
+      "Properties": {}
+    },
+    "AWS::SageMaker::ModelExplainabilityJobDefinition": {
+      "Type": "AWS::SageMaker::ModelExplainabilityJobDefinition",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::ThreatIntelSet": {
+      "Type": "AWS::GuardDuty::ThreatIntelSet",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::RegexPatternSet": {
+      "Type": "AWS::WAFRegional::RegexPatternSet",
+      "Properties": {}
+    },
+    "AWS::MediaPackage::PackagingGroup": {
+      "Type": "AWS::MediaPackage::PackagingGroup",
+      "Properties": {}
+    },
+    "AWS::Logs::MetricFilter": {
+      "Type": "AWS::Logs::MetricFilter",
+      "Properties": {}
+    },
+    "AWS::Macie::Session": {
+      "Type": "AWS::Macie::Session",
+      "Properties": {}
+    },
+    "AWS::SES::ReceiptFilter": {
+      "Type": "AWS::SES::ReceiptFilter",
+      "Properties": {}
+    },
+    "AWS::Config::RemediationConfiguration": {
+      "Type": "AWS::Config::RemediationConfiguration",
+      "Properties": {}
+    },
+    "AWS::Glue::Workflow": {
+      "Type": "AWS::Glue::Workflow",
+      "Properties": {}
+    },
+    "AWS::GroundStation::DataflowEndpointGroup": {
+      "Type": "AWS::GroundStation::DataflowEndpointGroup",
+      "Properties": {}
+    },
+    "AWS::EC2::FlowLog": {
+      "Type": "AWS::EC2::FlowLog",
+      "Properties": {}
+    },
+    "AWS::SecretsManager::RotationSchedule": {
+      "Type": "AWS::SecretsManager::RotationSchedule",
+      "Properties": {}
+    },
+    "AWS::Greengrass::ResourceDefinition": {
+      "Type": "AWS::Greengrass::ResourceDefinition",
+      "Properties": {}
+    },
+    "AWS::Cognito::IdentityPool": {
+      "Type": "AWS::Cognito::IdentityPool",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancingV2::LoadBalancer": {
+      "Type": "AWS::ElasticLoadBalancingV2::LoadBalancer",
+      "Properties": {}
+    },
+    "AWS::IAM::AccessKey": {
+      "Type": "AWS::IAM::AccessKey",
+      "Properties": {}
+    },
+    "AWS::GameLift::MatchmakingConfiguration": {
+      "Type": "AWS::GameLift::MatchmakingConfiguration",
+      "Properties": {}
+    },
+    "AWS::CodeBuild::SourceCredential": {
+      "Type": "AWS::CodeBuild::SourceCredential",
+      "Properties": {}
+    },
+    "AWS::Route53::DNSSEC": {
+      "Type": "AWS::Route53::DNSSEC",
+      "Properties": {}
+    },
+    "AWS::AmazonMQ::ConfigurationAssociation": {
+      "Type": "AWS::AmazonMQ::ConfigurationAssociation",
+      "Properties": {}
+    },
+    "AWS::DMS::ReplicationSubnetGroup": {
+      "Type": "AWS::DMS::ReplicationSubnetGroup",
+      "Properties": {}
+    },
+    "AWS::SES::ConfigurationSetEventDestination": {
+      "Type": "AWS::SES::ConfigurationSetEventDestination",
+      "Properties": {}
+    },
+    "AWS::ECS::CapacityProvider": {
+      "Type": "AWS::ECS::CapacityProvider",
+      "Properties": {}
+    },
+    "AWS::SageMaker::ModelPackageGroup": {
+      "Type": "AWS::SageMaker::ModelPackageGroup",
+      "Properties": {}
+    },
+    "AWS::CodeBuild::Project": {
+      "Type": "AWS::CodeBuild::Project",
+      "Properties": {}
+    },
+    "AWS::WAFv2::IPSet": {
+      "Type": "AWS::WAFv2::IPSet",
+      "Properties": {}
+    },
+    "AWS::Budgets::Budget": {
+      "Type": "AWS::Budgets::Budget",
+      "Properties": {}
+    },
+    "AWS::S3ObjectLambda::AccessPoint": {
+      "Type": "AWS::S3ObjectLambda::AccessPoint",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::FirewallRuleGroupAssociation": {
+      "Type": "AWS::Route53Resolver::FirewallRuleGroupAssociation",
+      "Properties": {}
+    },
+    "AWS::NetworkFirewall::RuleGroup": {
+      "Type": "AWS::NetworkFirewall::RuleGroup",
+      "Properties": {}
+    },
+    "AWS::SNS::TopicPolicy": {
+      "Type": "AWS::SNS::TopicPolicy",
+      "Properties": {}
+    },
+    "AWS::Lambda::Alias": {
+      "Type": "AWS::Lambda::Alias",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancingV2::Listener": {
+      "Type": "AWS::ElasticLoadBalancingV2::Listener",
+      "Properties": {}
+    },
+    "AWS::EC2::SecurityGroupEgress": {
+      "Type": "AWS::EC2::SecurityGroupEgress",
+      "Properties": {}
+    },
+    "AWS::Lambda::LayerVersionPermission": {
+      "Type": "AWS::Lambda::LayerVersionPermission",
+      "Properties": {}
+    },
+    "AWS::SageMaker::EndpointConfig": {
+      "Type": "AWS::SageMaker::EndpointConfig",
+      "Properties": {}
+    },
+    "AWS::Events::Connection": {
+      "Type": "AWS::Events::Connection",
+      "Properties": {}
+    },
+    "AWS::Greengrass::DeviceDefinition": {
+      "Type": "AWS::Greengrass::DeviceDefinition",
+      "Properties": {}
+    },
+    "AWS::StepFunctions::StateMachine": {
+      "Type": "AWS::Serverless::StateMachine",
+      "Properties": {}
+    },
+    "AWS::IoT::MitigationAction": {
+      "Type": "AWS::IoT::MitigationAction",
+      "Properties": {}
+    },
+    "AWS::CodeDeploy::DeploymentConfig": {
+      "Type": "AWS::CodeDeploy::DeploymentConfig",
+      "Properties": {}
+    },
+    "AWS::DMS::EventSubscription": {
+      "Type": "AWS::DMS::EventSubscription",
+      "Properties": {}
+    },
+    "AWS::CustomerProfiles::Integration": {
+      "Type": "AWS::CustomerProfiles::Integration",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayAttachment": {
+      "Type": "AWS::EC2::TransitGatewayAttachment",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::Outcome": {
+      "Type": "AWS::FraudDetector::Outcome",
+      "Properties": {}
+    },
+    "AWS::Location::Tracker": {
+      "Type": "AWS::Location::Tracker",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationFSxWindows": {
+      "Type": "AWS::DataSync::LocationFSxWindows",
+      "Properties": {}
+    },
+    "AWS::DAX::ParameterGroup": {
+      "Type": "AWS::DAX::ParameterGroup",
+      "Properties": {}
+    },
+    "AWS::IoT::SecurityProfile": {
+      "Type": "AWS::IoT::SecurityProfile",
+      "Properties": {}
+    },
+    "AWS::MediaConnect::FlowVpcInterface": {
+      "Type": "AWS::MediaConnect::FlowVpcInterface",
+      "Properties": {}
+    },
+    "AWS::Config::ConfigurationAggregator": {
+      "Type": "AWS::Config::ConfigurationAggregator",
+      "Properties": {}
+    },
+    "AWS::S3::StorageLens": {
+      "Type": "AWS::S3::StorageLens",
+      "Properties": {}
+    },
+    "AWS::SES::Template": {
+      "Type": "AWS::SES::Template",
+      "Properties": {}
+    },
+    "AWS::CloudFront::Distribution": {
+      "Type": "AWS::CloudFront::Distribution",
+      "Properties": {}
+    },
+    "AWS::Redshift::ClusterParameterGroup": {
+      "Type": "AWS::Redshift::ClusterParameterGroup",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationS3": {
+      "Type": "AWS::DataSync::LocationS3",
+      "Properties": {}
+    },
+    "AWS::Location::Map": {
+      "Type": "AWS::Location::Map",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::UserGroup": {
+      "Type": "AWS::ElastiCache::UserGroup",
+      "Properties": {}
+    },
+    "AWS::CloudTrail::Trail": {
+      "Type": "AWS::CloudTrail::Trail",
+      "Properties": {}
+    },
+    "AWS::Neptune::DBClusterParameterGroup": {
+      "Type": "AWS::Neptune::DBClusterParameterGroup",
+      "Properties": {}
+    },
+    "AWS::EMR::InstanceGroupConfig": {
+      "Type": "AWS::EMR::InstanceGroupConfig",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancingV2::ListenerRule": {
+      "Type": "AWS::ElasticLoadBalancingV2::ListenerRule",
+      "Properties": {}
+    },
+    "AWS::CodePipeline::Pipeline": {
+      "Type": "AWS::CodePipeline::Pipeline",
+      "Properties": {}
+    },
+    "AWS::MediaConnect::FlowEntitlement": {
+      "Type": "AWS::MediaConnect::FlowEntitlement",
+      "Properties": {}
+    },
+    "AWS::IoT::TopicRule": {
+      "Type": "AWS::IoT::TopicRule",
+      "Properties": {}
+    },
+    "AWS::DocDB::DBInstance": {
+      "Type": "AWS::DocDB::DBInstance",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::ElasticLoadBalancerAttachment": {
+      "Type": "AWS::OpsWorks::ElasticLoadBalancerAttachment",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalogAppRegistry::Application": {
+      "Type": "AWS::ServiceCatalogAppRegistry::Application",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::WebACLAssociation": {
+      "Type": "AWS::WAFRegional::WebACLAssociation",
+      "Properties": {}
+    },
+    "AWS::SSMContacts::Contact": {
+      "Type": "AWS::SSMContacts::Contact",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::CloudFormationProduct": {
+      "Type": "AWS::ServiceCatalog::CloudFormationProduct",
+      "Properties": {}
+    },
+    "AWS::GreengrassV2::ComponentVersion": {
+      "Type": "AWS::GreengrassV2::ComponentVersion",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::SimulationApplication": {
+      "Type": "AWS::RoboMaker::SimulationApplication",
+      "Properties": {}
+    },
+    "AWS::IoTAnalytics::Channel": {
+      "Type": "AWS::IoTAnalytics::Channel",
+      "Properties": {}
+    },
+    "AWS::Amplify::App": {
+      "Type": "AWS::Amplify::App",
+      "Properties": {}
+    },
+    "AWS::EventSchemas::Discoverer": {
+      "Type": "AWS::EventSchemas::Discoverer",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::AnomalyDetector": {
+      "Type": "AWS::CloudWatch::AnomalyDetector",
+      "Properties": {}
+    },
+    "AWS::Cloud9::EnvironmentEC2": {
+      "Type": "AWS::Cloud9::EnvironmentEC2",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::WebACL": {
+      "Type": "AWS::WAFRegional::WebACL",
+      "Properties": {}
+    },
+    "AWS::CloudFront::CloudFrontOriginAccessIdentity": {
+      "Type": "AWS::CloudFront::CloudFrontOriginAccessIdentity",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Endpoint": {
+      "Type": "AWS::SageMaker::Endpoint",
+      "Properties": {}
+    },
+    "AWS::Location::GeofenceCollection": {
+      "Type": "AWS::Location::GeofenceCollection",
+      "Properties": {}
+    },
+    "AWS::SageMaker::ModelBiasJobDefinition": {
+      "Type": "AWS::SageMaker::ModelBiasJobDefinition",
+      "Properties": {}
+    },
+    "AWS::AppSync::ApiKey": {
+      "Type": "AWS::AppSync::ApiKey",
+      "Properties": {}
+    },
+    "AWS::Route53::HostedZone": {
+      "Type": "AWS::Route53::HostedZone",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::EmailTemplate": {
+      "Type": "AWS::Pinpoint::EmailTemplate",
+      "Properties": {}
+    },
+    "AWS::EC2::Subnet": {
+      "Type": "AWS::EC2::Subnet",
+      "Properties": {}
+    },
+    "AWS::CodeDeploy::Application": {
+      "Type": "AWS::CodeDeploy::Application",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::PortfolioProductAssociation": {
+      "Type": "AWS::ServiceCatalog::PortfolioProductAssociation",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayMulticastDomainAssociation": {
+      "Type": "AWS::EC2::TransitGatewayMulticastDomainAssociation",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::ServiceProfile": {
+      "Type": "AWS::IoTWireless::ServiceProfile",
+      "Properties": {}
+    },
+    "AWS::ServiceDiscovery::Instance": {
+      "Type": "AWS::ServiceDiscovery::Instance",
+      "Properties": {}
+    },
+    "AWS::AppConfig::HostedConfigurationVersion": {
+      "Type": "AWS::AppConfig::HostedConfigurationVersion",
+      "Properties": {}
+    },
+    "AWS::EC2::CarrierGateway": {
+      "Type": "AWS::EC2::CarrierGateway",
+      "Properties": {}
+    },
+    "AWS::MediaConvert::JobTemplate": {
+      "Type": "AWS::MediaConvert::JobTemplate",
+      "Properties": {}
+    },
+    "AWS::EC2::Instance": {
+      "Type": "AWS::EC2::Instance",
+      "Properties": {}
+    },
+    "AWS::Events::EventBusPolicy": {
+      "Type": "AWS::Events::EventBusPolicy",
+      "Properties": {}
+    },
+    "AWS::EKS::Cluster": {
+      "Type": "AWS::EKS::Cluster",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::Stack": {
+      "Type": "AWS::CloudFormation::Stack",
+      "Properties": {}
+    },
+    "AWS::Config::AggregationAuthorization": {
+      "Type": "AWS::Config::AggregationAuthorization",
+      "Properties": {}
+    },
+    "AWS::WAF::ByteMatchSet": {
+      "Type": "AWS::WAF::ByteMatchSet",
+      "Properties": {}
+    },
+    "AWS::DocDB::DBCluster": {
+      "Type": "AWS::DocDB::DBCluster",
+      "Properties": {}
+    },
+    "AWS::RDS::GlobalCluster": {
+      "Type": "AWS::RDS::GlobalCluster",
+      "Properties": {}
+    },
+    "AWS::FIS::ExperimentTemplate": {
+      "Type": "AWS::FIS::ExperimentTemplate",
+      "Properties": {}
+    },
+    "AWS::DAX::Cluster": {
+      "Type": "AWS::DAX::Cluster",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::CompositeAlarm": {
+      "Type": "AWS::CloudWatch::CompositeAlarm",
+      "Properties": {}
+    },
+    "AWS::SSM::PatchBaseline": {
+      "Type": "AWS::SSM::PatchBaseline",
+      "Properties": {}
+    },
+    "AWS::IoT::DomainConfiguration": {
+      "Type": "AWS::IoT::DomainConfiguration",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalyticsV2::ApplicationCloudWatchLoggingOption": {
+      "Type": "AWS::KinesisAnalyticsV2::ApplicationCloudWatchLoggingOption",
+      "Properties": {}
+    },
+    "AWS::AppMesh::VirtualGateway": {
+      "Type": "AWS::AppMesh::VirtualGateway",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::Member": {
+      "Type": "AWS::GuardDuty::Member",
+      "Properties": {}
+    },
+    "AWS::ServiceDiscovery::Service": {
+      "Type": "AWS::ServiceDiscovery::Service",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::AcceptedPortfolioShare": {
+      "Type": "AWS::ServiceCatalog::AcceptedPortfolioShare",
+      "Properties": {}
+    },
+    "AWS::SecretsManager::ResourcePolicy": {
+      "Type": "AWS::SecretsManager::ResourcePolicy",
+      "Properties": {}
+    },
+    "AWS::DevOpsGuru::NotificationChannel": {
+      "Type": "AWS::DevOpsGuru::NotificationChannel",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::WirelessDevice": {
+      "Type": "AWS::IoTWireless::WirelessDevice",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::SimulationApplicationVersion": {
+      "Type": "AWS::RoboMaker::SimulationApplicationVersion",
+      "Properties": {}
+    },
+    "AWS::AuditManager::Assessment": {
+      "Type": "AWS::AuditManager::Assessment",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::ScalingPolicy": {
+      "Type": "AWS::AutoScaling::ScalingPolicy",
+      "Properties": {}
+    },
+    "AWS::Config::ConfigurationRecorder": {
+      "Type": "AWS::Config::ConfigurationRecorder",
+      "Properties": {}
+    },
+    "AWS::EMR::Step": {
+      "Type": "AWS::EMR::Step",
+      "Properties": {}
+    },
+    "AWS::Backup::BackupVault": {
+      "Type": "AWS::Backup::BackupVault",
+      "Properties": {}
+    },
+    "AWS::AppConfig::ConfigurationProfile": {
+      "Type": "AWS::AppConfig::ConfigurationProfile",
+      "Properties": {}
+    },
+    "AWS::IoT1Click::Placement": {
+      "Type": "AWS::IoT1Click::Placement",
+      "Properties": {}
+    },
+    "AWS::SSM::MaintenanceWindowTarget": {
+      "Type": "AWS::SSM::MaintenanceWindowTarget",
+      "Properties": {}
+    },
+    "AWS::IoT::AccountAuditConfiguration": {
+      "Type": "AWS::IoT::AccountAuditConfiguration",
+      "Properties": {}
+    },
+    "AWS::EC2::DHCPOptions": {
+      "Type": "AWS::EC2::DHCPOptions",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::UsagePlan": {
+      "Type": "AWS::ApiGateway::UsagePlan",
+      "Properties": {}
+    },
+    "AWS::SSMIncidents::ReplicationSet": {
+      "Type": "AWS::SSMIncidents::ReplicationSet",
+      "Properties": {}
+    },
+    "AWS::IAM::User": {
+      "Type": "AWS::IAM::User",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::Instance": {
+      "Type": "AWS::OpsWorks::Instance",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolResourceServer": {
+      "Type": "AWS::Cognito::UserPoolResourceServer",
+      "Properties": {}
+    },
+    "AWS::SES::ConfigurationSet": {
+      "Type": "AWS::SES::ConfigurationSet",
+      "Properties": {}
+    },
+    "AWS::KMS::ReplicaKey": {
+      "Type": "AWS::KMS::ReplicaKey",
+      "Properties": {}
+    },
+    "AWS::Location::TrackerConsumer": {
+      "Type": "AWS::Location::TrackerConsumer",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::InsightRule": {
+      "Type": "AWS::CloudWatch::InsightRule",
+      "Properties": {}
+    },
+    "AWS::ManagedBlockchain::Node": {
+      "Type": "AWS::ManagedBlockchain::Node",
+      "Properties": {}
+    },
+    "AWS::Detective::MemberInvitation": {
+      "Type": "AWS::Detective::MemberInvitation",
+      "Properties": {}
+    },
+    "AWS::IoTAnalytics::Datastore": {
+      "Type": "AWS::IoTAnalytics::Datastore",
+      "Properties": {}
+    },
+    "AWS::Glue::Job": {
+      "Type": "AWS::Glue::Job",
+      "Properties": {}
+    },
+    "AWS::S3::Bucket": {
+      "Type": "AWS::S3::Bucket",
+      "Properties": {}
+    },
+    "AWS::SageMaker::ModelQualityJobDefinition": {
+      "Type": "AWS::SageMaker::ModelQualityJobDefinition",
+      "Properties": {}
+    },
+    "AWS::Lambda::Version": {
+      "Type": "AWS::Lambda::Version",
+      "Properties": {}
+    },
+    "AWS::Synthetics::Canary": {
+      "Type": "AWS::Synthetics::Canary",
+      "Properties": {}
+    },
+    "AWS::DataBrew::Recipe": {
+      "Type": "AWS::DataBrew::Recipe",
+      "Properties": {}
+    },
+    "AWS::SageMaker::NotebookInstance": {
+      "Type": "AWS::SageMaker::NotebookInstance",
+      "Properties": {}
+    },
+    "AWS::WAFv2::WebACLAssociation": {
+      "Type": "AWS::WAFv2::WebACLAssociation",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::BaiduChannel": {
+      "Type": "AWS::Pinpoint::BaiduChannel",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::BasePathMapping": {
+      "Type": "AWS::ApiGateway::BasePathMapping",
+      "Properties": {}
+    },
+    "AWS::DataSync::Task": {
+      "Type": "AWS::DataSync::Task",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPool": {
+      "Type": "AWS::Cognito::UserPool",
+      "Properties": {}
+    },
+    "AWS::EMR::Studio": {
+      "Type": "AWS::EMR::Studio",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationObjectStorage": {
+      "Type": "AWS::DataSync::LocationObjectStorage",
+      "Properties": {}
+    },
+    "AWS::EC2::EgressOnlyInternetGateway": {
+      "Type": "AWS::EC2::EgressOnlyInternetGateway",
+      "Properties": {}
+    },
+    "AWS::DataBrew::Project": {
+      "Type": "AWS::DataBrew::Project",
+      "Properties": {}
+    },
+    "AWS::IVS::StreamKey": {
+      "Type": "AWS::IVS::StreamKey",
+      "Properties": {}
+    },
+    "AWS::Events::ApiDestination": {
+      "Type": "AWS::Events::ApiDestination",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Api": {
+      "Type": "AWS::ApiGatewayV2::Api",
+      "Properties": {}
+    },
+    "AWS::DLM::LifecyclePolicy": {
+      "Type": "AWS::DLM::LifecyclePolicy",
+      "Properties": {}
+    },
+    "AWS::RDS::DBInstance": {
+      "Type": "AWS::RDS::DBInstance",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkInterfaceAttachment": {
+      "Type": "AWS::EC2::NetworkInterfaceAttachment",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::IPSet": {
+      "Type": "AWS::WAFRegional::IPSet",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::RobotApplication": {
+      "Type": "AWS::RoboMaker::RobotApplication",
+      "Properties": {}
+    },
+    "AWS::EC2::CustomerGateway": {
+      "Type": "AWS::EC2::CustomerGateway",
+      "Properties": {}
+    },
+    "AWS::ServiceDiscovery::HttpNamespace": {
+      "Type": "AWS::ServiceDiscovery::HttpNamespace",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::Asset": {
+      "Type": "AWS::IoTSiteWise::Asset",
+      "Properties": {}
+    },
+    "AWS::SageMaker::CodeRepository": {
+      "Type": "AWS::SageMaker::CodeRepository",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Stage": {
+      "Type": "AWS::ApiGateway::Stage",
+      "Properties": {}
+    },
+    "AWS::SDB::Domain": {
+      "Type": "AWS::SDB::Domain",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolClient": {
+      "Type": "AWS::Cognito::UserPoolClient",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::ResourceDefaultVersion": {
+      "Type": "AWS::CloudFormation::ResourceDefaultVersion",
+      "Properties": {}
+    },
+    "AWS::IoTEvents::Input": {
+      "Type": "AWS::IoTEvents::Input",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::EventType": {
+      "Type": "AWS::FraudDetector::EventType",
+      "Properties": {}
+    },
+    "AWS::ECR::Repository": {
+      "Type": "AWS::ECR::Repository",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::GatewayResponse": {
+      "Type": "AWS::ApiGateway::GatewayResponse",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkInsightsPath": {
+      "Type": "AWS::EC2::NetworkInsightsPath",
+      "Properties": {}
+    },
+    "AWS::Glue::Database": {
+      "Type": "AWS::Glue::Database",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::RouteResponse": {
+      "Type": "AWS::ApiGatewayV2::RouteResponse",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::ClientCertificate": {
+      "Type": "AWS::ApiGateway::ClientCertificate",
+      "Properties": {}
+    },
+    "AWS::IAM::OIDCProvider": {
+      "Type": "AWS::IAM::OIDCProvider",
+      "Properties": {}
+    },
+    "AWS::Greengrass::LoggerDefinitionVersion": {
+      "Type": "AWS::Greengrass::LoggerDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::Lambda::CodeSigningConfig": {
+      "Type": "AWS::Lambda::CodeSigningConfig",
+      "Properties": {}
+    },
+    "AWS::RDS::DBSecurityGroup": {
+      "Type": "AWS::RDS::DBSecurityGroup",
+      "Properties": {}
+    },
+    "AWS::KMS::Alias": {
+      "Type": "AWS::KMS::Alias",
+      "Properties": {}
+    },
+    "AWS::QuickSight::Analysis": {
+      "Type": "AWS::QuickSight::Analysis",
+      "Properties": {}
+    },
+    "AWS::Redshift::ClusterSubnetGroup": {
+      "Type": "AWS::Redshift::ClusterSubnetGroup",
+      "Properties": {}
+    },
+    "AWS::EC2::EIPAssociation": {
+      "Type": "AWS::EC2::EIPAssociation",
+      "Properties": {}
+    },
+    "AWS::EC2::VPNGateway": {
+      "Type": "AWS::EC2::VPNGateway",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::WirelessGateway": {
+      "Type": "AWS::IoTWireless::WirelessGateway",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::GCMChannel": {
+      "Type": "AWS::Pinpoint::GCMChannel",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::Detector": {
+      "Type": "AWS::GuardDuty::Detector",
+      "Properties": {}
+    },
+    "AWS::ServiceDiscovery::PrivateDnsNamespace": {
+      "Type": "AWS::ServiceDiscovery::PrivateDnsNamespace",
+      "Properties": {}
+    },
+    "AWS::IoT::Authorizer": {
+      "Type": "AWS::IoT::Authorizer",
+      "Properties": {}
+    },
+    "AWS::IAM::VirtualMFADevice": {
+      "Type": "AWS::IAM::VirtualMFADevice",
+      "Properties": {}
+    },
+    "AWS::Glue::DevEndpoint": {
+      "Type": "AWS::Glue::DevEndpoint",
+      "Properties": {}
+    },
+    "AWS::CodeBuild::ReportGroup": {
+      "Type": "AWS::CodeBuild::ReportGroup",
+      "Properties": {}
+    },
+    "AWS::S3Outposts::AccessPoint": {
+      "Type": "AWS::S3Outposts::AccessPoint",
+      "Properties": {}
+    },
+    "AWS::MediaPackage::OriginEndpoint": {
+      "Type": "AWS::MediaPackage::OriginEndpoint",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::UserProfile": {
+      "Type": "AWS::OpsWorks::UserProfile",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::Detector": {
+      "Type": "AWS::FraudDetector::Detector",
+      "Properties": {}
+    },
+    "AWS::Neptune::DBSubnetGroup": {
+      "Type": "AWS::Neptune::DBSubnetGroup",
+      "Properties": {}
+    },
+    "AWS::AppStream::User": {
+      "Type": "AWS::AppStream::User",
+      "Properties": {}
+    },
+    "AWS::PinpointEmail::DedicatedIpPool": {
+      "Type": "AWS::PinpointEmail::DedicatedIpPool",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalyticsV2::Application": {
+      "Type": "AWS::KinesisAnalyticsV2::Application",
+      "Properties": {}
+    },
+    "AWS::EC2::VPNConnection": {
+      "Type": "AWS::EC2::VPNConnection",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverQueryLoggingConfigAssociation": {
+      "Type": "AWS::Route53Resolver::ResolverQueryLoggingConfigAssociation",
+      "Properties": {}
+    },
+    "AWS::GlobalAccelerator::Listener": {
+      "Type": "AWS::GlobalAccelerator::Listener",
+      "Properties": {}
+    },
+    "AWS::AppStream::Fleet": {
+      "Type": "AWS::AppStream::Fleet",
+      "Properties": {}
+    },
+    "AWS::FMS::NotificationChannel": {
+      "Type": "AWS::FMS::NotificationChannel",
+      "Properties": {}
+    },
+    "AWS::Logs::SubscriptionFilter": {
+      "Type": "AWS::Logs::SubscriptionFilter",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalogAppRegistry::ResourceAssociation": {
+      "Type": "AWS::ServiceCatalogAppRegistry::ResourceAssociation",
+      "Properties": {}
+    },
+    "AWS::Greengrass::FunctionDefinitionVersion": {
+      "Type": "AWS::Greengrass::FunctionDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::EventSchemas::RegistryPolicy": {
+      "Type": "AWS::EventSchemas::RegistryPolicy",
+      "Properties": {}
+    },
+    "AWS::AmazonMQ::Configuration": {
+      "Type": "AWS::AmazonMQ::Configuration",
+      "Properties": {}
+    },
+    "AWS::Redshift::ClusterSecurityGroup": {
+      "Type": "AWS::Redshift::ClusterSecurityGroup",
+      "Properties": {}
+    },
+    "AWS::Logs::Destination": {
+      "Type": "AWS::Logs::Destination",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayRouteTable": {
+      "Type": "AWS::EC2::TransitGatewayRouteTable",
+      "Properties": {}
+    },
+    "AWS::WAF::XssMatchSet": {
+      "Type": "AWS::WAF::XssMatchSet",
+      "Properties": {}
+    },
+    "AWS::CloudFront::RealtimeLogConfig": {
+      "Type": "AWS::CloudFront::RealtimeLogConfig",
+      "Properties": {}
+    },
+    "AWS::Route53::HealthCheck": {
+      "Type": "AWS::Route53::HealthCheck",
+      "Properties": {}
+    },
+    "AWS::MediaLive::Channel": {
+      "Type": "AWS::MediaLive::Channel",
+      "Properties": {}
+    },
+    "AWS::S3Outposts::Bucket": {
+      "Type": "AWS::S3Outposts::Bucket",
+      "Properties": {}
+    },
+    "AWS::MediaPackage::Channel": {
+      "Type": "AWS::MediaPackage::Channel",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::Device": {
+      "Type": "AWS::NetworkManager::Device",
+      "Properties": {}
+    },
+    "AWS::RDS::DBClusterParameterGroup": {
+      "Type": "AWS::RDS::DBClusterParameterGroup",
+      "Properties": {}
+    },
+    "AWS::Neptune::DBInstance": {
+      "Type": "AWS::Neptune::DBInstance",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCEndpointService": {
+      "Type": "AWS::EC2::VPCEndpointService",
+      "Properties": {}
+    },
+    "AWS::Glue::SchemaVersionMetadata": {
+      "Type": "AWS::Glue::SchemaVersionMetadata",
+      "Properties": {}
+    },
+    "AWS::Kinesis::StreamConsumer": {
+      "Type": "AWS::Kinesis::StreamConsumer",
+      "Properties": {}
+    },
+    "AWS::NetworkFirewall::FirewallPolicy": {
+      "Type": "AWS::NetworkFirewall::FirewallPolicy",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::Master": {
+      "Type": "AWS::GuardDuty::Master",
+      "Properties": {}
+    },
+    "AWS::S3::BucketPolicy": {
+      "Type": "AWS::S3::BucketPolicy",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::CustomResource": {
+      "Type": "AWS::CloudFormation::CustomResource",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::StackSetConstraint": {
+      "Type": "AWS::ServiceCatalog::StackSetConstraint",
+      "Properties": {}
+    },
+    "AWS::Glue::Crawler": {
+      "Type": "AWS::Glue::Crawler",
+      "Properties": {}
+    },
+    "AWS::EC2::ClientVpnRoute": {
+      "Type": "AWS::EC2::ClientVpnRoute",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::DocumentationVersion": {
+      "Type": "AWS::ApiGateway::DocumentationVersion",
+      "Properties": {}
+    },
+    "AWS::MediaConnect::FlowOutput": {
+      "Type": "AWS::MediaConnect::FlowOutput",
+      "Properties": {}
+    },
+    "AWS::SSM::MaintenanceWindowTask": {
+      "Type": "AWS::SSM::MaintenanceWindowTask",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::ServiceAction": {
+      "Type": "AWS::ServiceCatalog::ServiceAction",
+      "Properties": {}
+    },
+    "AWS::Glue::MLTransform": {
+      "Type": "AWS::Glue::MLTransform",
+      "Properties": {}
+    },
+    "AWS::Kendra::DataSource": {
+      "Type": "AWS::Kendra::DataSource",
+      "Properties": {}
+    },
+    "AWS::Transfer::Server": {
+      "Type": "AWS::Transfer::Server",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::UsagePlanKey": {
+      "Type": "AWS::ApiGateway::UsagePlanKey",
+      "Properties": {}
+    },
+    "AWS::EMR::SecurityConfiguration": {
+      "Type": "AWS::EMR::SecurityConfiguration",
+      "Properties": {}
+    },
+    "AWS::CodeGuruReviewer::RepositoryAssociation": {
+      "Type": "AWS::CodeGuruReviewer::RepositoryAssociation",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolUserToGroupAttachment": {
+      "Type": "AWS::Cognito::UserPoolUserToGroupAttachment",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::APNSChannel": {
+      "Type": "AWS::Pinpoint::APNSChannel",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::Dashboard": {
+      "Type": "AWS::IoTSiteWise::Dashboard",
+      "Properties": {}
+    },
+    "AWS::NimbleStudio::LaunchProfile": {
+      "Type": "AWS::NimbleStudio::LaunchProfile",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::Fleet": {
+      "Type": "AWS::RoboMaker::Fleet",
+      "Properties": {}
+    },
+    "AWS::Glue::Classifier": {
+      "Type": "AWS::Glue::Classifier",
+      "Properties": {}
+    },
+    "AWS::ElasticBeanstalk::ConfigurationTemplate": {
+      "Type": "AWS::ElasticBeanstalk::ConfigurationTemplate",
+      "Properties": {}
+    },
+    "AWS::AmazonMQ::Broker": {
+      "Type": "AWS::AmazonMQ::Broker",
+      "Properties": {}
+    },
+    "AWS::AppSync::DataSource": {
+      "Type": "AWS::AppSync::DataSource",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalogAppRegistry::AttributeGroup": {
+      "Type": "AWS::ServiceCatalogAppRegistry::AttributeGroup",
+      "Properties": {}
+    },
+    "AWS::ECS::PrimaryTaskSet": {
+      "Type": "AWS::ECS::PrimaryTaskSet",
+      "Properties": {}
+    },
+    "AWS::Greengrass::Group": {
+      "Type": "AWS::Greengrass::Group",
+      "Properties": {}
+    },
+    "AWS::Cognito::IdentityPoolRoleAttachment": {
+      "Type": "AWS::Cognito::IdentityPoolRoleAttachment",
+      "Properties": {}
+    },
+    "AWS::WorkSpaces::ConnectionAlias": {
+      "Type": "AWS::WorkSpaces::ConnectionAlias",
+      "Properties": {}
+    },
+    "AWS::PinpointEmail::Identity": {
+      "Type": "AWS::PinpointEmail::Identity",
+      "Properties": {}
+    },
+    "AWS::Events::Rule": {
+      "Type": "AWS::Events::Rule",
+      "Properties": {}
+    },
+    "AWS::MediaLive::Input": {
+      "Type": "AWS::MediaLive::Input",
+      "Properties": {}
+    },
+    "AWS::Route53::KeySigningKey": {
+      "Type": "AWS::Route53::KeySigningKey",
+      "Properties": {}
+    },
+    "AWS::IoTCoreDeviceAdvisor::SuiteDefinition": {
+      "Type": "AWS::IoTCoreDeviceAdvisor::SuiteDefinition",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::Component": {
+      "Type": "AWS::ImageBuilder::Component",
+      "Properties": {}
+    },
+    "AWS::SSMContacts::ContactChannel": {
+      "Type": "AWS::SSMContacts::ContactChannel",
+      "Properties": {}
+    },
+    "AWS::CodePipeline::CustomActionType": {
+      "Type": "AWS::CodePipeline::CustomActionType",
+      "Properties": {}
+    },
+    "AWS::AppMesh::VirtualNode": {
+      "Type": "AWS::AppMesh::VirtualNode",
+      "Properties": {}
+    },
+    "AWS::AppMesh::VirtualRouter": {
+      "Type": "AWS::AppMesh::VirtualRouter",
+      "Properties": {}
+    },
+    "AWS::Greengrass::ConnectorDefinition": {
+      "Type": "AWS::Greengrass::ConnectorDefinition",
+      "Properties": {}
+    },
+    "AWS::DataSync::Agent": {
+      "Type": "AWS::DataSync::Agent",
+      "Properties": {}
+    },
+    "AWS::EC2::PlacementGroup": {
+      "Type": "AWS::EC2::PlacementGroup",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::RequestValidator": {
+      "Type": "AWS::ApiGateway::RequestValidator",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::SizeConstraintSet": {
+      "Type": "AWS::WAFRegional::SizeConstraintSet",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverDNSSECConfig": {
+      "Type": "AWS::Route53Resolver::ResolverDNSSECConfig",
+      "Properties": {}
+    },
+    "AWS::AppMesh::VirtualService": {
+      "Type": "AWS::AppMesh::VirtualService",
+      "Properties": {}
+    },
+    "AWS::RDS::DBSecurityGroupIngress": {
+      "Type": "AWS::RDS::DBSecurityGroupIngress",
+      "Properties": {}
+    },
+    "AWS::Timestream::Database": {
+      "Type": "AWS::Timestream::Database",
+      "Properties": {}
+    },
+    "AWS::EC2::GatewayRouteTableAssociation": {
+      "Type": "AWS::EC2::GatewayRouteTableAssociation",
+      "Properties": {}
+    },
+    "AWS::Kendra::Faq": {
+      "Type": "AWS::Kendra::Faq",
+      "Properties": {}
+    },
+    "AWS::IoTThingsGraph::FlowTemplate": {
+      "Type": "AWS::IoTThingsGraph::FlowTemplate",
+      "Properties": {}
+    },
+    "AWS::CodePipeline::Webhook": {
+      "Type": "AWS::CodePipeline::Webhook",
+      "Properties": {}
+    },
+    "AWS::Logs::LogGroup": {
+      "Type": "AWS::Logs::LogGroup",
+      "Properties": {}
+    },
+    "AWS::SSMIncidents::ResponsePlan": {
+      "Type": "AWS::SSMIncidents::ResponsePlan",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationEFS": {
+      "Type": "AWS::DataSync::LocationEFS",
+      "Properties": {}
+    },
+    "AWS::AppStream::ImageBuilder": {
+      "Type": "AWS::AppStream::ImageBuilder",
+      "Properties": {}
+    },
+    "AWS::AutoScalingPlans::ScalingPlan": {
+      "Type": "AWS::AutoScalingPlans::ScalingPlan",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::InfrastructureConfiguration": {
+      "Type": "AWS::ImageBuilder::InfrastructureConfiguration",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::MetricStream": {
+      "Type": "AWS::CloudWatch::MetricStream",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::XssMatchSet": {
+      "Type": "AWS::WAFRegional::XssMatchSet",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkAclEntry": {
+      "Type": "AWS::EC2::NetworkAclEntry",
+      "Properties": {}
+    },
+    "AWS::EC2::InternetGateway": {
+      "Type": "AWS::EC2::InternetGateway",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancingV2::ListenerCertificate": {
+      "Type": "AWS::ElasticLoadBalancingV2::ListenerCertificate",
+      "Properties": {}
+    },
+    "AWS::IAM::Role": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {}
+    },
+    "AWS::Neptune::DBParameterGroup": {
+      "Type": "AWS::Neptune::DBParameterGroup",
+      "Properties": {}
+    },
+    "AWS::EKS::Addon": {
+      "Type": "AWS::EKS::Addon",
+      "Properties": {}
+    },
+    "AWS::Macie::FindingsFilter": {
+      "Type": "AWS::Macie::FindingsFilter",
+      "Properties": {}
+    },
+    "AWS::EC2::LaunchTemplate": {
+      "Type": "AWS::EC2::LaunchTemplate",
+      "Properties": {}
+    },
+    "AWS::Events::Archive": {
+      "Type": "AWS::Events::Archive",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::SmsTemplate": {
+      "Type": "AWS::Pinpoint::SmsTemplate",
+      "Properties": {}
+    },
+    "AWS::IoT::Dimension": {
+      "Type": "AWS::IoT::Dimension",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::Volume": {
+      "Type": "AWS::OpsWorks::Volume",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::TagOptionAssociation": {
+      "Type": "AWS::ServiceCatalog::TagOptionAssociation",
+      "Properties": {}
+    },
+    "AWS::ACMPCA::Certificate": {
+      "Type": "AWS::ACMPCA::Certificate",
+      "Properties": {}
+    },
+    "AWS::SageMaker::AppImageConfig": {
+      "Type": "AWS::SageMaker::AppImageConfig",
+      "Properties": {}
+    },
+    "AWS::Glue::Schema": {
+      "Type": "AWS::Glue::Schema",
+      "Properties": {}
+    },
+    "AWS::QuickSight::Template": {
+      "Type": "AWS::QuickSight::Template",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::VpcLink": {
+      "Type": "AWS::ApiGatewayV2::VpcLink",
+      "Properties": {}
+    },
+    "AWS::QuickSight::DataSource": {
+      "Type": "AWS::QuickSight::DataSource",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::LaunchTemplateConstraint": {
+      "Type": "AWS::ServiceCatalog::LaunchTemplateConstraint",
+      "Properties": {}
+    },
+    "AWS::EMR::Cluster": {
+      "Type": "AWS::EMR::Cluster",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Pipeline": {
+      "Type": "AWS::SageMaker::Pipeline",
+      "Properties": {}
+    },
+    "AWS::EC2::SpotFleet": {
+      "Type": "AWS::EC2::SpotFleet",
+      "Properties": {}
+    },
+    "AWS::S3ObjectLambda::AccessPointPolicy": {
+      "Type": "AWS::S3ObjectLambda::AccessPointPolicy",
+      "Properties": {}
+    },
+    "AWS::SSO::Assignment": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {}
+    },
+    "AWS::GameLift::Alias": {
+      "Type": "AWS::GameLift::Alias",
+      "Properties": {}
+    },
+    "AWS::EC2::VPNConnectionRoute": {
+      "Type": "AWS::EC2::VPNConnectionRoute",
+      "Properties": {}
+    },
+    "AWS::DirectoryService::MicrosoftAD": {
+      "Type": "AWS::DirectoryService::MicrosoftAD",
+      "Properties": {}
+    },
+    "AWS::WAF::Rule": {
+      "Type": "AWS::WAF::Rule",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::DomainName": {
+      "Type": "AWS::ApiGatewayV2::DomainName",
+      "Properties": {}
+    },
+    "AWS::Greengrass::FunctionDefinition": {
+      "Type": "AWS::Greengrass::FunctionDefinition",
+      "Properties": {}
+    },
+    "AWS::SSM::Document": {
+      "Type": "AWS::SSM::Document",
+      "Properties": {}
+    },
+    "AWS::Config::DeliveryChannel": {
+      "Type": "AWS::Config::DeliveryChannel",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkInterfacePermission": {
+      "Type": "AWS::EC2::NetworkInterfacePermission",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Model": {
+      "Type": "AWS::SageMaker::Model",
+      "Properties": {}
+    },
+    "AWS::EC2::TrafficMirrorFilter": {
+      "Type": "AWS::EC2::TrafficMirrorFilter",
+      "Properties": {}
+    },
+    "AWS::GameLift::Build": {
+      "Type": "AWS::GameLift::Build",
+      "Properties": {}
+    },
+    "AWS::Config::OrganizationConfigRule": {
+      "Type": "AWS::Config::OrganizationConfigRule",
+      "Properties": {}
+    },
+    "AWS::ECR::ReplicationConfiguration": {
+      "Type": "AWS::ECR::ReplicationConfiguration",
+      "Properties": {}
+    },
+    "AWS::QLDB::Ledger": {
+      "Type": "AWS::QLDB::Ledger",
+      "Properties": {}
+    },
+    "AWS::LicenseManager::License": {
+      "Type": "AWS::LicenseManager::License",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Integration": {
+      "Type": "AWS::ApiGatewayV2::Integration",
+      "Properties": {}
+    },
+    "AWS::Location::RouteCalculator": {
+      "Type": "AWS::Location::RouteCalculator",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::Segment": {
+      "Type": "AWS::Pinpoint::Segment",
+      "Properties": {}
+    },
+    "AWS::Backup::BackupSelection": {
+      "Type": "AWS::Backup::BackupSelection",
+      "Properties": {}
+    },
+    "AWS::CloudWatch::Alarm": {
+      "Type": "AWS::CloudWatch::Alarm",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::Portal": {
+      "Type": "AWS::IoTSiteWise::Portal",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::FirewallDomainList": {
+      "Type": "AWS::Route53Resolver::FirewallDomainList",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::APNSSandboxChannel": {
+      "Type": "AWS::Pinpoint::APNSSandboxChannel",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::ADMChannel": {
+      "Type": "AWS::Pinpoint::ADMChannel",
+      "Properties": {}
+    },
+    "AWS::CertificateManager::Certificate": {
+      "Type": "AWS::CertificateManager::Certificate",
+      "Properties": {}
+    },
+    "AWS::Greengrass::SubscriptionDefinitionVersion": {
+      "Type": "AWS::Greengrass::SubscriptionDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::Greengrass::CoreDefinitionVersion": {
+      "Type": "AWS::Greengrass::CoreDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::ECR::PublicRepository": {
+      "Type": "AWS::ECR::PublicRepository",
+      "Properties": {}
+    },
+    "AWS::MediaConvert::Preset": {
+      "Type": "AWS::MediaConvert::Preset",
+      "Properties": {}
+    },
+    "AWS::LicenseManager::Grant": {
+      "Type": "AWS::LicenseManager::Grant",
+      "Properties": {}
+    },
+    "AWS::Kendra::Index": {
+      "Type": "AWS::Kendra::Index",
+      "Properties": {}
+    },
+    "AWS::CodeStarNotifications::NotificationRule": {
+      "Type": "AWS::CodeStarNotifications::NotificationRule",
+      "Properties": {}
+    },
+    "AWS::IAM::SAMLProvider": {
+      "Type": "AWS::IAM::SAMLProvider",
+      "Properties": {}
+    },
+    "AWS::Inspector::ResourceGroup": {
+      "Type": "AWS::Inspector::ResourceGroup",
+      "Properties": {}
+    },
+    "AWS::EMRContainers::VirtualCluster": {
+      "Type": "AWS::EMRContainers::VirtualCluster",
+      "Properties": {}
+    },
+    "AWS::IoTAnalytics::Dataset": {
+      "Type": "AWS::IoTAnalytics::Dataset",
+      "Properties": {}
+    },
+    "AWS::NetworkFirewall::Firewall": {
+      "Type": "AWS::NetworkFirewall::Firewall",
+      "Properties": {}
+    },
+    "AWS::FinSpace::Environment": {
+      "Type": "AWS::FinSpace::Environment",
+      "Properties": {}
+    },
+    "AWS::XRay::SamplingRule": {
+      "Type": "AWS::XRay::SamplingRule",
+      "Properties": {}
+    },
+    "AWS::IoT::ProvisioningTemplate": {
+      "Type": "AWS::IoT::ProvisioningTemplate",
+      "Properties": {}
+    },
+    "AWS::DocDB::DBSubnetGroup": {
+      "Type": "AWS::DocDB::DBSubnetGroup",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::PortfolioPrincipalAssociation": {
+      "Type": "AWS::ServiceCatalog::PortfolioPrincipalAssociation",
+      "Properties": {}
+    },
+    "AWS::GameLift::MatchmakingRuleSet": {
+      "Type": "AWS::GameLift::MatchmakingRuleSet",
+      "Properties": {}
+    },
+    "AWS::DataBrew::Job": {
+      "Type": "AWS::DataBrew::Job",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::ImagePipeline": {
+      "Type": "AWS::ImageBuilder::ImagePipeline",
+      "Properties": {}
+    },
+    "AWS::EC2::SecurityGroupIngress": {
+      "Type": "AWS::EC2::SecurityGroupIngress",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayMulticastGroupMember": {
+      "Type": "AWS::EC2::TransitGatewayMulticastGroupMember",
+      "Properties": {}
+    },
+    "AWS::PinpointEmail::ConfigurationSet": {
+      "Type": "AWS::PinpointEmail::ConfigurationSet",
+      "Properties": {}
+    },
+    "AWS::ASK::Skill": {
+      "Type": "Alexa::ASK::Skill",
+      "Properties": {}
+    },
+    "AWS::RDS::DBCluster": {
+      "Type": "AWS::RDS::DBCluster",
+      "Properties": {}
+    },
+    "AWS::EC2::ClientVpnEndpoint": {
+      "Type": "AWS::EC2::ClientVpnEndpoint",
+      "Properties": {}
+    },
+    "AWS::ECS::Service": {
+      "Type": "AWS::ECS::Service",
+      "Properties": {}
+    },
+    "AWS::IAM::UserToGroupAddition": {
+      "Type": "AWS::IAM::UserToGroupAddition",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::ApplicationSettings": {
+      "Type": "AWS::Pinpoint::ApplicationSettings",
+      "Properties": {}
+    },
+    "AWS::OpsWorksCM::Server": {
+      "Type": "AWS::OpsWorksCM::Server",
+      "Properties": {}
+    },
+    "AWS::GroundStation::MissionProfile": {
+      "Type": "AWS::GroundStation::MissionProfile",
+      "Properties": {}
+    },
+    "AWS::Batch::JobQueue": {
+      "Type": "AWS::Batch::JobQueue",
+      "Properties": {}
+    },
+    "AWS::IoT::Thing": {
+      "Type": "AWS::IoT::Thing",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::Layer": {
+      "Type": "AWS::OpsWorks::Layer",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::Destination": {
+      "Type": "AWS::IoTWireless::Destination",
+      "Properties": {}
+    },
+    "AWS::DMS::Certificate": {
+      "Type": "AWS::DMS::Certificate",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::ApiKey": {
+      "Type": "AWS::ApiGateway::ApiKey",
+      "Properties": {}
+    },
+    "AWS::Timestream::Table": {
+      "Type": "AWS::Timestream::Table",
+      "Properties": {}
+    },
+    "AWS::EC2::SubnetRouteTableAssociation": {
+      "Type": "AWS::EC2::SubnetRouteTableAssociation",
+      "Properties": {}
+    },
+    "AWS::Glue::Table": {
+      "Type": "AWS::Glue::Table",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::SecurityGroup": {
+      "Type": "AWS::ElastiCache::SecurityGroup",
+      "Properties": {}
+    },
+    "AWS::IoT::Policy": {
+      "Type": "AWS::IoT::Policy",
+      "Properties": {}
+    },
+    "AWS::IAM::InstanceProfile": {
+      "Type": "AWS::IAM::InstanceProfile",
+      "Properties": {}
+    },
+    "AWS::CodeDeploy::DeploymentGroup": {
+      "Type": "AWS::CodeDeploy::DeploymentGroup",
+      "Properties": {}
+    },
+    "AWS::MediaConnect::Flow": {
+      "Type": "AWS::MediaConnect::Flow",
+      "Properties": {}
+    },
+    "AWS::Batch::ComputeEnvironment": {
+      "Type": "AWS::Batch::ComputeEnvironment",
+      "Properties": {}
+    },
+    "AWS::EC2::Route": {
+      "Type": "AWS::EC2::Route",
+      "Properties": {}
+    },
+    "AWS::AppFlow::Flow": {
+      "Type": "AWS::AppFlow::Flow",
+      "Properties": {}
+    },
+    "AWS::NimbleStudio::StudioComponent": {
+      "Type": "AWS::NimbleStudio::StudioComponent",
+      "Properties": {}
+    },
+    "AWS::AppStream::DirectoryConfig": {
+      "Type": "AWS::AppStream::DirectoryConfig",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::DeviceProfile": {
+      "Type": "AWS::IoTWireless::DeviceProfile",
+      "Properties": {}
+    },
+    "AWS::EC2::LocalGatewayRouteTableVPCAssociation": {
+      "Type": "AWS::EC2::LocalGatewayRouteTableVPCAssociation",
+      "Properties": {}
+    },
+    "AWS::GameLift::GameSessionQueue": {
+      "Type": "AWS::GameLift::GameSessionQueue",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Resource": {
+      "Type": "AWS::ApiGateway::Resource",
+      "Properties": {}
+    },
+    "AWS::GlobalAccelerator::EndpointGroup": {
+      "Type": "AWS::GlobalAccelerator::EndpointGroup",
+      "Properties": {}
+    },
+    "AWS::SageMaker::DeviceFleet": {
+      "Type": "AWS::SageMaker::DeviceFleet",
+      "Properties": {}
+    },
+    "AWS::SecurityHub::Hub": {
+      "Type": "AWS::SecurityHub::Hub",
+      "Properties": {}
+    },
+    "AWS::IoT1Click::Device": {
+      "Type": "AWS::IoT1Click::Device",
+      "Properties": {}
+    },
+    "AWS::Glue::Connection": {
+      "Type": "AWS::Glue::Connection",
+      "Properties": {}
+    },
+    "AWS::Macie::CustomDataIdentifier": {
+      "Type": "AWS::Macie::CustomDataIdentifier",
+      "Properties": {}
+    },
+    "AWS::ECS::TaskSet": {
+      "Type": "AWS::ECS::TaskSet",
+      "Properties": {}
+    },
+    "AWS::WAFv2::RuleGroup": {
+      "Type": "AWS::WAFv2::RuleGroup",
+      "Properties": {}
+    },
+    "AWS::ElasticBeanstalk::Application": {
+      "Type": "AWS::ElasticBeanstalk::Application",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalogAppRegistry::AttributeGroupAssociation": {
+      "Type": "AWS::ServiceCatalogAppRegistry::AttributeGroupAssociation",
+      "Properties": {}
+    },
+    "AWS::SES::ReceiptRule": {
+      "Type": "AWS::SES::ReceiptRule",
+      "Properties": {}
+    },
+    "AWS::CustomerProfiles::ObjectType": {
+      "Type": "AWS::CustomerProfiles::ObjectType",
+      "Properties": {}
+    },
+    "AWS::NimbleStudio::Studio": {
+      "Type": "AWS::NimbleStudio::Studio",
+      "Properties": {}
+    },
+    "AWS::S3Outposts::Endpoint": {
+      "Type": "AWS::S3Outposts::Endpoint",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::Label": {
+      "Type": "AWS::FraudDetector::Label",
+      "Properties": {}
+    },
+    "AWS::AppFlow::ConnectorProfile": {
+      "Type": "AWS::AppFlow::ConnectorProfile",
+      "Properties": {}
+    },
+    "AWS::WAFv2::WebACL": {
+      "Type": "AWS::WAFv2::WebACL",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::SubnetGroup": {
+      "Type": "AWS::ElastiCache::SubnetGroup",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayRouteTablePropagation": {
+      "Type": "AWS::EC2::TransitGatewayRouteTablePropagation",
+      "Properties": {}
+    },
+    "AWS::SageMaker::App": {
+      "Type": "AWS::SageMaker::App",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::ByteMatchSet": {
+      "Type": "AWS::WAFRegional::ByteMatchSet",
+      "Properties": {}
+    },
+    "AWS::Detective::Graph": {
+      "Type": "AWS::Detective::Graph",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Domain": {
+      "Type": "AWS::SageMaker::Domain",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkInterface": {
+      "Type": "AWS::EC2::NetworkInterface",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Deployment": {
+      "Type": "AWS::ApiGatewayV2::Deployment",
+      "Properties": {}
+    },
+    "AWS::DAX::SubnetGroup": {
+      "Type": "AWS::DAX::SubnetGroup",
+      "Properties": {}
+    },
+    "AWS::AppConfig::Environment": {
+      "Type": "AWS::AppConfig::Environment",
+      "Properties": {}
+    },
+    "AWS::FSx::FileSystem": {
+      "Type": "AWS::FSx::FileSystem",
+      "Properties": {}
+    },
+    "AWS::OpsWorks::Stack": {
+      "Type": "AWS::OpsWorks::Stack",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::AccessPolicy": {
+      "Type": "AWS::IoTSiteWise::AccessPolicy",
+      "Properties": {}
+    },
+    "AWS::DataPipeline::Pipeline": {
+      "Type": "AWS::DataPipeline::Pipeline",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayMulticastGroupSource": {
+      "Type": "AWS::EC2::TransitGatewayMulticastGroupSource",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverRule": {
+      "Type": "AWS::Route53Resolver::ResolverRule",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::Campaign": {
+      "Type": "AWS::Pinpoint::Campaign",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::LinkAssociation": {
+      "Type": "AWS::NetworkManager::LinkAssociation",
+      "Properties": {}
+    },
+    "AWS::EC2::ClientVpnAuthorizationRule": {
+      "Type": "AWS::EC2::ClientVpnAuthorizationRule",
+      "Properties": {}
+    },
+    "AWS::EC2::SubnetNetworkAclAssociation": {
+      "Type": "AWS::EC2::SubnetNetworkAclAssociation",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Project": {
+      "Type": "AWS::SageMaker::Project",
+      "Properties": {}
+    },
+    "AWS::CUR::ReportDefinition": {
+      "Type": "AWS::CUR::ReportDefinition",
+      "Properties": {}
+    },
+    "AWS::GameLift::Script": {
+      "Type": "AWS::GameLift::Script",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Account": {
+      "Type": "AWS::ApiGateway::Account",
+      "Properties": {}
+    },
+    "AWS::EC2::TrafficMirrorSession": {
+      "Type": "AWS::EC2::TrafficMirrorSession",
+      "Properties": {}
+    },
+    "AWS::Amplify::Branch": {
+      "Type": "AWS::Amplify::Branch",
+      "Properties": {}
+    },
+    "AWS::Greengrass::LoggerDefinition": {
+      "Type": "AWS::Greengrass::LoggerDefinition",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::LaunchRoleConstraint": {
+      "Type": "AWS::ServiceCatalog::LaunchRoleConstraint",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::CloudFormationProvisionedProduct": {
+      "Type": "AWS::ServiceCatalog::CloudFormationProvisionedProduct",
+      "Properties": {}
+    },
+    "AWS::EC2::SubnetCidrBlock": {
+      "Type": "AWS::EC2::SubnetCidrBlock",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::LifecycleHook": {
+      "Type": "AWS::AutoScaling::LifecycleHook",
+      "Properties": {}
+    },
+    "AWS::MediaLive::InputSecurityGroup": {
+      "Type": "AWS::MediaLive::InputSecurityGroup",
+      "Properties": {}
+    },
+    "AWS::Redshift::ClusterSecurityGroupIngress": {
+      "Type": "AWS::Redshift::ClusterSecurityGroupIngress",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::SecurityGroupIngress": {
+      "Type": "AWS::ElastiCache::SecurityGroupIngress",
+      "Properties": {}
+    },
+    "AWS::RDS::OptionGroup": {
+      "Type": "AWS::RDS::OptionGroup",
+      "Properties": {}
+    },
+    "AWS::EC2::NatGateway": {
+      "Type": "AWS::EC2::NatGateway",
+      "Properties": {}
+    },
+    "AWS::CodeArtifact::Domain": {
+      "Type": "AWS::CodeArtifact::Domain",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::ReplicationGroup": {
+      "Type": "AWS::ElastiCache::ReplicationGroup",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolUser": {
+      "Type": "AWS::Cognito::UserPoolUser",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Model": {
+      "Type": "AWS::ApiGatewayV2::Model",
+      "Properties": {}
+    },
+    "AWS::AppSync::FunctionConfiguration": {
+      "Type": "AWS::AppSync::FunctionConfiguration",
+      "Properties": {}
+    },
+    "AWS::Signer::SigningProfile": {
+      "Type": "AWS::Signer::SigningProfile",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::Gateway": {
+      "Type": "AWS::IoTSiteWise::Gateway",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::WaitCondition": {
+      "Type": "AWS::CloudFormation::WaitCondition",
+      "Properties": {}
+    },
+    "AWS::EC2::SecurityGroup": {
+      "Type": "AWS::EC2::SecurityGroup",
+      "Properties": {}
+    },
+    "AWS::EKS::FargateProfile": {
+      "Type": "AWS::EKS::FargateProfile",
+      "Properties": {}
+    },
+    "AWS::LookoutMetrics::AnomalyDetector": {
+      "Type": "AWS::LookoutMetrics::AnomalyDetector",
+      "Properties": {}
+    },
+    "AWS::CloudFront::OriginRequestPolicy": {
+      "Type": "AWS::CloudFront::OriginRequestPolicy",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::ResourceVersion": {
+      "Type": "AWS::CloudFormation::ResourceVersion",
+      "Properties": {}
+    },
+    "AWS::WAFRegional::Rule": {
+      "Type": "AWS::WAFRegional::Rule",
+      "Properties": {}
+    },
+    "AWS::SSO::PermissionSet": {
+      "Type": "AWS::SSO::PermissionSet",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::PushTemplate": {
+      "Type": "AWS::Pinpoint::PushTemplate",
+      "Properties": {}
+    },
+    "AWS::AppConfig::DeploymentStrategy": {
+      "Type": "AWS::AppConfig::DeploymentStrategy",
+      "Properties": {}
+    },
+    "AWS::EC2::TrafficMirrorFilterRule": {
+      "Type": "AWS::EC2::TrafficMirrorFilterRule",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::RestApi": {
+      "Type": "AWS::ApiGateway::RestApi",
+      "Properties": {}
+    },
+    "AWS::CloudFront::PublicKey": {
+      "Type": "AWS::CloudFront::PublicKey",
+      "Properties": {}
+    },
+    "AWS::Events::EventBus": {
+      "Type": "AWS::Events::EventBus",
+      "Properties": {}
+    },
+    "AWS::Lambda::EventInvokeConfig": {
+      "Type": "AWS::Lambda::EventInvokeConfig",
+      "Properties": {}
+    },
+    "AWS::DataBrew::Schedule": {
+      "Type": "AWS::DataBrew::Schedule",
+      "Properties": {}
+    },
+    "AWS::EC2::PrefixList": {
+      "Type": "AWS::EC2::PrefixList",
+      "Properties": {}
+    },
+    "AWS::EC2::VPC": {
+      "Type": "AWS::EC2::VPC",
+      "Properties": {}
+    },
+    "AWS::CodeGuruProfiler::ProfilingGroup": {
+      "Type": "AWS::CodeGuruProfiler::ProfilingGroup",
+      "Properties": {}
+    },
+    "AWS::Athena::DataCatalog": {
+      "Type": "AWS::Athena::DataCatalog",
+      "Properties": {}
+    },
+    "AWS::NetworkFirewall::LoggingConfiguration": {
+      "Type": "AWS::NetworkFirewall::LoggingConfiguration",
+      "Properties": {}
+    },
+    "AWS::Config::OrganizationConformancePack": {
+      "Type": "AWS::Config::OrganizationConformancePack",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalyticsV2::ApplicationOutput": {
+      "Type": "AWS::KinesisAnalyticsV2::ApplicationOutput",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::ParameterGroup": {
+      "Type": "AWS::ElastiCache::ParameterGroup",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::GlobalNetwork": {
+      "Type": "AWS::NetworkManager::GlobalNetwork",
+      "Properties": {}
+    },
+    "AWS::IVS::Channel": {
+      "Type": "AWS::IVS::Channel",
+      "Properties": {}
+    },
+    "AWS::SQS::QueuePolicy": {
+      "Type": "AWS::SQS::QueuePolicy",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::TransitGatewayRegistration": {
+      "Type": "AWS::NetworkManager::TransitGatewayRegistration",
+      "Properties": {}
+    },
+    "AWS::EFS::FileSystem": {
+      "Type": "AWS::EFS::FileSystem",
+      "Properties": {}
+    },
+    "AWS::WAF::SqlInjectionMatchSet": {
+      "Type": "AWS::WAF::SqlInjectionMatchSet",
+      "Properties": {}
+    },
+    "AWS::ApplicationAutoScaling::ScalingPolicy": {
+      "Type": "AWS::ApplicationAutoScaling::ScalingPolicy",
+      "Properties": {}
+    },
+    "AWS::CodeCommit::Repository": {
+      "Type": "AWS::CodeCommit::Repository",
+      "Properties": {}
+    },
+    "AWS::SecretsManager::Secret": {
+      "Type": "AWS::SecretsManager::Secret",
+      "Properties": {}
+    },
+    "AWS::IoT::ScheduledAudit": {
+      "Type": "AWS::IoT::ScheduledAudit",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::APNSVoipSandboxChannel": {
+      "Type": "AWS::Pinpoint::APNSVoipSandboxChannel",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::Portfolio": {
+      "Type": "AWS::ServiceCatalog::Portfolio",
+      "Properties": {}
+    },
+    "AWS::EMR::StudioSessionMapping": {
+      "Type": "AWS::EMR::StudioSessionMapping",
+      "Properties": {}
+    },
+    "AWS::Greengrass::CoreDefinition": {
+      "Type": "AWS::Greengrass::CoreDefinition",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolUICustomizationAttachment": {
+      "Type": "AWS::Cognito::UserPoolUICustomizationAttachment",
+      "Properties": {}
+    },
+    "AWS::RDS::DBParameterGroup": {
+      "Type": "AWS::RDS::DBParameterGroup",
+      "Properties": {}
+    },
+    "AWS::MediaStore::Container": {
+      "Type": "AWS::MediaStore::Container",
+      "Properties": {}
+    },
+    "AWS::AppStream::StackFleetAssociation": {
+      "Type": "AWS::AppStream::StackFleetAssociation",
+      "Properties": {}
+    },
+    "AWS::Logs::LogStream": {
+      "Type": "AWS::Logs::LogStream",
+      "Properties": {}
+    },
+    "AWS::Athena::WorkGroup": {
+      "Type": "AWS::Athena::WorkGroup",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::FirewallRuleGroup": {
+      "Type": "AWS::Route53Resolver::FirewallRuleGroup",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::RobotApplicationVersion": {
+      "Type": "AWS::RoboMaker::RobotApplicationVersion",
+      "Properties": {}
+    },
+    "AWS::RDS::EventSubscription": {
+      "Type": "AWS::RDS::EventSubscription",
+      "Properties": {}
+    },
+    "AWS::ElasticBeanstalk::Environment": {
+      "Type": "AWS::ElasticBeanstalk::Environment",
+      "Properties": {}
+    },
+    "AWS::Lambda::Function": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {}
+    },
+    "AWS::IoTAnalytics::Pipeline": {
+      "Type": "AWS::IoTAnalytics::Pipeline",
+      "Properties": {}
+    },
+    "AWS::ResourceGroups::Group": {
+      "Type": "AWS::ResourceGroups::Group",
+      "Properties": {}
+    },
+    "AWS::LookoutVision::Project": {
+      "Type": "AWS::LookoutVision::Project",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayRoute": {
+      "Type": "AWS::EC2::TransitGatewayRoute",
+      "Properties": {}
+    },
+    "AWS::FMS::Policy": {
+      "Type": "AWS::FMS::Policy",
+      "Properties": {}
+    },
+    "AWS::Transfer::User": {
+      "Type": "AWS::Transfer::User",
+      "Properties": {}
+    },
+    "AWS::EventSchemas::Schema": {
+      "Type": "AWS::EventSchemas::Schema",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkAcl": {
+      "Type": "AWS::EC2::NetworkAcl",
+      "Properties": {}
+    },
+    "AWS::IoTSiteWise::Project": {
+      "Type": "AWS::IoTSiteWise::Project",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::DistributionConfiguration": {
+      "Type": "AWS::ImageBuilder::DistributionConfiguration",
+      "Properties": {}
+    },
+    "AWS::RDS::DBProxy": {
+      "Type": "AWS::RDS::DBProxy",
+      "Properties": {}
+    },
+    "AWS::QuickSight::DataSet": {
+      "Type": "AWS::QuickSight::DataSet",
+      "Properties": {}
+    },
+    "AWS::Config::ConfigRule": {
+      "Type": "AWS::Config::ConfigRule",
+      "Properties": {}
+    },
+    "AWS::Glue::Partition": {
+      "Type": "AWS::Glue::Partition",
+      "Properties": {}
+    },
+    "AWS::EC2::VPNGatewayRoutePropagation": {
+      "Type": "AWS::EC2::VPNGatewayRoutePropagation",
+      "Properties": {}
+    },
+    "AWS::EC2::ClientVpnTargetNetworkAssociation": {
+      "Type": "AWS::EC2::ClientVpnTargetNetworkAssociation",
+      "Properties": {}
+    },
+    "AWS::WAF::WebACL": {
+      "Type": "AWS::WAF::WebACL",
+      "Properties": {}
+    },
+    "AWS::AppSync::ApiCache": {
+      "Type": "AWS::AppSync::ApiCache",
+      "Properties": {}
+    },
+    "AWS::Neptune::DBCluster": {
+      "Type": "AWS::Neptune::DBCluster",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::Authorizer": {
+      "Type": "AWS::ApiGatewayV2::Authorizer",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::WaitConditionHandle": {
+      "Type": "AWS::CloudFormation::WaitConditionHandle",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::PartnerAccount": {
+      "Type": "AWS::IoTWireless::PartnerAccount",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::WarmPool": {
+      "Type": "AWS::AutoScaling::WarmPool",
+      "Properties": {}
+    },
+    "AWS::GameLift::GameServerGroup": {
+      "Type": "AWS::GameLift::GameServerGroup",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::GlobalReplicationGroup": {
+      "Type": "AWS::ElastiCache::GlobalReplicationGroup",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Image": {
+      "Type": "AWS::SageMaker::Image",
+      "Properties": {}
+    },
+    "AWS::SSM::MaintenanceWindow": {
+      "Type": "AWS::SSM::MaintenanceWindow",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::Macro": {
+      "Type": "AWS::CloudFormation::Macro",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayMulticastDomain": {
+      "Type": "AWS::EC2::TransitGatewayMulticastDomain",
+      "Properties": {}
+    },
+    "AWS::Route53::RecordSetGroup": {
+      "Type": "AWS::Route53::RecordSetGroup",
+      "Properties": {}
+    },
+    "AWS::CloudFront::Function": {
+      "Type": "AWS::CloudFront::Function",
+      "Properties": {}
+    },
+    "AWS::KinesisFirehose::DeliveryStream": {
+      "Type": "AWS::KinesisFirehose::DeliveryStream",
+      "Properties": {}
+    },
+    "AWS::S3Outposts::BucketPolicy": {
+      "Type": "AWS::S3Outposts::BucketPolicy",
+      "Properties": {}
+    },
+    "AWS::IVS::PlaybackKeyPair": {
+      "Type": "AWS::IVS::PlaybackKeyPair",
+      "Properties": {}
+    },
+    "AWS::IAM::ManagedPolicy": {
+      "Type": "AWS::IAM::ManagedPolicy",
+      "Properties": {}
+    },
+    "AWS::Greengrass::DeviceDefinitionVersion": {
+      "Type": "AWS::Greengrass::DeviceDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::IoT::PolicyPrincipalAttachment": {
+      "Type": "AWS::IoT::PolicyPrincipalAttachment",
+      "Properties": {}
+    },
+    "AWS::ApplicationAutoScaling::ScalableTarget": {
+      "Type": "AWS::ApplicationAutoScaling::ScalableTarget",
+      "Properties": {}
+    },
+    "AWS::Glue::Registry": {
+      "Type": "AWS::Glue::Registry",
+      "Properties": {}
+    },
+    "AWS::Config::ConformancePack": {
+      "Type": "AWS::Config::ConformancePack",
+      "Properties": {}
+    },
+    "AWS::Amplify::Domain": {
+      "Type": "AWS::Amplify::Domain",
+      "Properties": {}
+    },
+    "AWS::DevOpsGuru::ResourceCollection": {
+      "Type": "AWS::DevOpsGuru::ResourceCollection",
+      "Properties": {}
+    },
+    "AWS::ECS::ClusterCapacityProviderAssociations": {
+      "Type": "AWS::ECS::ClusterCapacityProviderAssociations",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverRuleAssociation": {
+      "Type": "AWS::Route53Resolver::ResolverRuleAssociation",
+      "Properties": {}
+    },
+    "AWS::Greengrass::SubscriptionDefinition": {
+      "Type": "AWS::Greengrass::SubscriptionDefinition",
+      "Properties": {}
+    },
+    "AWS::IoTEvents::DetectorModel": {
+      "Type": "AWS::IoTEvents::DetectorModel",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::VpcLink": {
+      "Type": "AWS::ApiGateway::VpcLink",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayPeeringAttachment": {
+      "Type": "AWS::EC2::TransitGatewayPeeringAttachment",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalyticsV2::ApplicationReferenceDataSource": {
+      "Type": "AWS::KinesisAnalyticsV2::ApplicationReferenceDataSource",
+      "Properties": {}
+    },
+    "AWS::ECR::RegistryPolicy": {
+      "Type": "AWS::ECR::RegistryPolicy",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Method": {
+      "Type": "AWS::ApiGateway::Method",
+      "Properties": {}
+    },
+    "AWS::DMS::Endpoint": {
+      "Type": "AWS::DMS::Endpoint",
+      "Properties": {}
+    },
+    "AWS::ServiceCatalog::LaunchNotificationConstraint": {
+      "Type": "AWS::ServiceCatalog::LaunchNotificationConstraint",
+      "Properties": {}
+    },
+    "AWS::SES::ReceiptRuleSet": {
+      "Type": "AWS::SES::ReceiptRuleSet",
+      "Properties": {}
+    },
+    "AWS::AppStream::StackUserAssociation": {
+      "Type": "AWS::AppStream::StackUserAssociation",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::APNSVoipChannel": {
+      "Type": "AWS::Pinpoint::APNSVoipChannel",
+      "Properties": {}
+    },
+    "AWS::DirectoryService::SimpleAD": {
+      "Type": "AWS::DirectoryService::SimpleAD",
+      "Properties": {}
+    },
+    "AWS::SecretsManager::SecretTargetAttachment": {
+      "Type": "AWS::SecretsManager::SecretTargetAttachment",
+      "Properties": {}
+    },
+    "AWS::Greengrass::ResourceDefinitionVersion": {
+      "Type": "AWS::Greengrass::ResourceDefinitionVersion",
+      "Properties": {}
+    },
+    "AWS::EC2::VolumeAttachment": {
+      "Type": "AWS::EC2::VolumeAttachment",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::EmailChannel": {
+      "Type": "AWS::Pinpoint::EmailChannel",
+      "Properties": {}
+    },
+    "AWS::EC2::NetworkInsightsAnalysis": {
+      "Type": "AWS::EC2::NetworkInsightsAnalysis",
+      "Properties": {}
+    },
+    "AWS::EC2::Host": {
+      "Type": "AWS::EC2::Host",
+      "Properties": {}
+    },
+    "AWS::ECS::TaskDefinition": {
+      "Type": "AWS::ECS::TaskDefinition",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::IntegrationResponse": {
+      "Type": "AWS::ApiGatewayV2::IntegrationResponse",
+      "Properties": {}
+    },
+    "AWS::CE::AnomalyMonitor": {
+      "Type": "AWS::CE::AnomalyMonitor",
+      "Properties": {}
+    },
+    "AWS::NetworkManager::Site": {
+      "Type": "AWS::NetworkManager::Site",
+      "Properties": {}
+    },
+    "AWS::IAM::ServerCertificate": {
+      "Type": "AWS::IAM::ServerCertificate",
+      "Properties": {}
+    },
+    "AWS::ElastiCache::CacheCluster": {
+      "Type": "AWS::ElastiCache::CacheCluster",
+      "Properties": {}
+    },
+    "AWS::SageMaker::Device": {
+      "Type": "AWS::SageMaker::Device",
+      "Properties": {}
+    },
+    "AWS::IoT::ThingPrincipalAttachment": {
+      "Type": "AWS::IoT::ThingPrincipalAttachment",
+      "Properties": {}
+    },
+    "AWS::Cognito::UserPoolDomain": {
+      "Type": "AWS::Cognito::UserPoolDomain",
+      "Properties": {}
+    },
+    "AWS::DocDB::DBClusterParameterGroup": {
+      "Type": "AWS::DocDB::DBClusterParameterGroup",
+      "Properties": {}
+    },
+    "AWS::Signer::ProfilePermission": {
+      "Type": "AWS::Signer::ProfilePermission",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::ModuleDefaultVersion": {
+      "Type": "AWS::CloudFormation::ModuleDefaultVersion",
+      "Properties": {}
+    },
+    "AWS::ElasticBeanstalk::ApplicationVersion": {
+      "Type": "AWS::ElasticBeanstalk::ApplicationVersion",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCEndpoint": {
+      "Type": "AWS::EC2::VPCEndpoint",
+      "Properties": {}
+    },
+    "AWS::MSK::Cluster": {
+      "Type": "AWS::MSK::Cluster",
+      "Properties": {}
+    },
+    "AWS::IoT::TopicRuleDestination": {
+      "Type": "AWS::IoT::TopicRuleDestination",
+      "Properties": {}
+    },
+    "AWS::ElasticLoadBalancingV2::TargetGroup": {
+      "Type": "AWS::ElasticLoadBalancingV2::TargetGroup",
+      "Properties": {}
+    },
+    "AWS::IoTWireless::TaskDefinition": {
+      "Type": "AWS::IoTWireless::TaskDefinition",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::ContainerRecipe": {
+      "Type": "AWS::ImageBuilder::ContainerRecipe",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCGatewayAttachment": {
+      "Type": "AWS::EC2::VPCGatewayAttachment",
+      "Properties": {}
+    },
+    "AWS::RoboMaker::Robot": {
+      "Type": "AWS::RoboMaker::Robot",
+      "Properties": {}
+    },
+    "AWS::DataSync::LocationSMB": {
+      "Type": "AWS::DataSync::LocationSMB",
+      "Properties": {}
+    },
+    "AWS::Glue::Trigger": {
+      "Type": "AWS::Glue::Trigger",
+      "Properties": {}
+    },
+    "AWS::EFS::AccessPoint": {
+      "Type": "AWS::EFS::AccessPoint",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCCidrBlock": {
+      "Type": "AWS::EC2::VPCCidrBlock",
+      "Properties": {}
+    },
+    "AWS::SSM::Parameter": {
+      "Type": "AWS::SSM::Parameter",
+      "Properties": {}
+    },
+    "AWS::AppMesh::Mesh": {
+      "Type": "AWS::AppMesh::Mesh",
+      "Properties": {}
+    },
+    "AWS::Inspector::AssessmentTemplate": {
+      "Type": "AWS::Inspector::AssessmentTemplate",
+      "Properties": {}
+    },
+    "AWS::RDS::DBProxyTargetGroup": {
+      "Type": "AWS::RDS::DBProxyTargetGroup",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalytics::ApplicationReferenceDataSource": {
+      "Type": "AWS::KinesisAnalytics::ApplicationReferenceDataSource",
+      "Properties": {}
+    },
+    "AWS::SSM::ResourceDataSync": {
+      "Type": "AWS::SSM::ResourceDataSync",
+      "Properties": {}
+    },
+    "AWS::AppConfig::Application": {
+      "Type": "AWS::AppConfig::Application",
+      "Properties": {}
+    },
+    "AWS::KinesisAnalytics::Application": {
+      "Type": "AWS::KinesisAnalytics::Application",
+      "Properties": {}
+    },
+    "AWS::DynamoDB::Table": {
+      "Type": "AWS::DynamoDB::Table",
+      "Properties": {}
+    },
+    "AWS::EC2::EC2Fleet": {
+      "Type": "AWS::EC2::EC2Fleet",
+      "Properties": {}
+    },
+    "AWS::Pinpoint::App": {
+      "Type": "AWS::Pinpoint::App",
+      "Properties": {}
+    },
+    "AWS::Cassandra::Table": {
+      "Type": "AWS::Cassandra::Table",
+      "Properties": {}
+    },
+    "AWS::AppRunner::Service": {
+      "Type": "AWS::AppRunner::Service",
+      "Properties": {}
+    },
+    "AWS::Greengrass::GroupVersion": {
+      "Type": "AWS::Greengrass::GroupVersion",
+      "Properties": {}
+    },
+    "AWS::Logs::QueryDefinition": {
+      "Type": "AWS::Logs::QueryDefinition",
+      "Properties": {}
+    },
+    "AWS::Lambda::Permission": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {}
+    },
+    "AWS::IoT::Certificate": {
+      "Type": "AWS::IoT::Certificate",
+      "Properties": {}
+    },
+    "AWS::GuardDuty::IPSet": {
+      "Type": "AWS::GuardDuty::IPSet",
+      "Properties": {}
+    },
+    "AWS::DynamoDB::GlobalTable": {
+      "Type": "AWS::DynamoDB::GlobalTable",
+      "Properties": {}
+    },
+    "AWS::SSM::Association": {
+      "Type": "AWS::SSM::Association",
+      "Properties": {}
+    },
+    "AWS::CertificateManager::Account": {
+      "Type": "AWS::CertificateManager::Account",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::ImageRecipe": {
+      "Type": "AWS::ImageBuilder::ImageRecipe",
+      "Properties": {}
+    },
+    "AWS::CodeStar::GitHubRepository": {
+      "Type": "AWS::CodeStar::GitHubRepository",
+      "Properties": {}
+    },
+    "AWS::Athena::NamedQuery": {
+      "Type": "AWS::Athena::NamedQuery",
+      "Properties": {}
+    },
+    "AWS::Chatbot::SlackChannelConfiguration": {
+      "Type": "AWS::Chatbot::SlackChannelConfiguration",
+      "Properties": {}
+    },
+    "AWS::CloudFormation::ModuleVersion": {
+      "Type": "AWS::CloudFormation::ModuleVersion",
+      "Properties": {}
+    },
+    "AWS::IVS::RecordingConfiguration": {
+      "Type": "AWS::IVS::RecordingConfiguration",
+      "Properties": {}
+    },
+    "AWS::Inspector::AssessmentTarget": {
+      "Type": "AWS::Inspector::AssessmentTarget",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::AutoScalingGroup": {
+      "Type": "AWS::AutoScaling::AutoScalingGroup",
+      "Properties": {}
+    },
+    "AWS::EventSchemas::Registry": {
+      "Type": "AWS::EventSchemas::Registry",
+      "Properties": {}
+    },
+    "AWS::FraudDetector::Variable": {
+      "Type": "AWS::FraudDetector::Variable",
+      "Properties": {}
+    },
+    "AWS::QuickSight::Theme": {
+      "Type": "AWS::QuickSight::Theme",
+      "Properties": {}
+    },
+    "AWS::Route53Resolver::ResolverEndpoint": {
+      "Type": "AWS::Route53Resolver::ResolverEndpoint",
+      "Properties": {}
+    },
+    "AWS::ImageBuilder::Image": {
+      "Type": "AWS::ImageBuilder::Image",
+      "Properties": {}
+    },
+    "AWS::Cassandra::Keyspace": {
+      "Type": "AWS::Cassandra::Keyspace",
+      "Properties": {}
+    },
+    "AWS::EC2::VPCDHCPOptionsAssociation": {
+      "Type": "AWS::EC2::VPCDHCPOptionsAssociation",
+      "Properties": {}
+    },
+    "AWS::SSO::InstanceAccessControlAttributeConfiguration": {
+      "Type": "AWS::SSO::InstanceAccessControlAttributeConfiguration",
+      "Properties": {}
+    },
+    "AWS::DMS::ReplicationTask": {
+      "Type": "AWS::DMS::ReplicationTask",
+      "Properties": {}
+    },
+    "AWS::EC2::EnclaveCertificateIamRoleAssociation": {
+      "Type": "AWS::EC2::EnclaveCertificateIamRoleAssociation",
+      "Properties": {}
+    },
+    "AWS::ServiceDiscovery::PublicDnsNamespace": {
+      "Type": "AWS::ServiceDiscovery::PublicDnsNamespace",
+      "Properties": {}
+    },
+    "AWS::CE::AnomalySubscription": {
+      "Type": "AWS::CE::AnomalySubscription",
+      "Properties": {}
+    },
+    "AWS::EC2::TransitGatewayConnect": {
+      "Type": "AWS::EC2::TransitGatewayConnect",
+      "Properties": {}
+    },
+    "AWS::RDS::DBProxyEndpoint": {
+      "Type": "AWS::RDS::DBProxyEndpoint",
+      "Properties": {}
+    },
+    "AWS::EC2::TrafficMirrorTarget": {
+      "Type": "AWS::EC2::TrafficMirrorTarget",
+      "Properties": {}
+    },
+    "AWS::Config::StoredQuery": {
+      "Type": "AWS::Config::StoredQuery",
+      "Properties": {}
+    },
+    "AWS::Location::PlaceIndex": {
+      "Type": "AWS::Location::PlaceIndex",
+      "Properties": {}
+    },
+    "AWS::MediaPackage::PackagingConfiguration": {
+      "Type": "AWS::MediaPackage::PackagingConfiguration",
+      "Properties": {}
+    },
+    "AWS::DMS::ReplicationInstance": {
+      "Type": "AWS::DMS::ReplicationInstance",
+      "Properties": {}
+    },
+    "AWS::Glue::SecurityConfiguration": {
+      "Type": "AWS::Glue::SecurityConfiguration",
+      "Properties": {}
+    },
+    "AWS::ApiGatewayV2::ApiMapping": {
+      "Type": "AWS::ApiGatewayV2::ApiMapping",
+      "Properties": {}
+    },
+    "AWS::AutoScaling::ScheduledAction": {
+      "Type": "AWS::AutoScaling::ScheduledAction",
+      "Properties": {}
+    },
+    "AWS::DynamoDB::SimpleTable": {
+      "Type": "AWS::Serverless::SimpleTable",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::Api": {
+      "Type": "AWS::Serverless::Api",
+      "Properties": {}
+    },
+    "AWS::ApiGateway::HttpApi": {
+      "Type": "AWS::Serverless::HttpApi",
+      "Properties": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "aws-icons-directory",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mhlabs",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.7",
+    "jest": "^27.0.5",
+    "string-similarity": "^4.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhlabs/aws-icon-directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhlabs/aws-icon-directory/issues"
+  },
+  "homepage": "https://github.com/mhlabs/aws-icon-directory#readme",
+
+  "keywords": [
+    "aws",
+    "architecture",
+    "diagram",
+    "icons"
+  ]
+
+}

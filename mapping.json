@@ -1,0 +1,2321 @@
+{
+  "aws::xray::group": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-X-Ray_{size}.{type}"
+  },
+  "aws::ec2::routetable": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ses::contactlist": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::servicecatalog::portfolioshare": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::acmpca::certificateauthority": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Certificate-Manager_{size}.{type}"
+  },
+  "aws::globalaccelerator::accelerator": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-Global-Accelerator_{size}.{type}"
+  },
+  "aws::accessanalyzer::analyzer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Resource-Access-Manager_{size}.{type}"
+  },
+  "aws::waf::ipset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::iam::group": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::backup::backupplan": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_AWS-Backup_{size}.{type}"
+  },
+  "aws::wafregional::ratebasedrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::appintegrations::eventintegration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Migration-Hub_{size}.{type}"
+  },
+  "aws::pinpoint::smschannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::route53resolver::resolverqueryloggingconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::ec2::vpcpeeringconnection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::elasticsearch::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Elasticsearch-Service_{size}.{type}"
+  },
+  "aws::frauddetector::entitytype": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::workspaces::workspace": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-WorkSpaces_{size}.{type}"
+  },
+  "aws::emr::instancefleetconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::iotsitewise::assetmodel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::lookoutmetrics::alert": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Lookout-for-Metrics_{size}.{type}"
+  },
+  "aws::wafregional::sqlinjectionmatchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::mediapackage::asset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaPackage_{size}.{type}"
+  },
+  "aws::apigatewayv2::route": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::sagemaker::workteam": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ram::resourceshare": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_AWS-Panorama_{size}.{type}"
+  },
+  "aws::kinesis::stream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis_{size}.{type}"
+  },
+  "aws::autoscaling::launchconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::sqs::queue": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-Simple-Queue-Service_{size}.{type}"
+  },
+  "aws::ec2::transitgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::sagemaker::imageversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ec2::capacityreservation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::appsync::resolver": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::datasync::locationnfs": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::pinpoint::voicechannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::ec2::vpcendpointservicepermissions": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::route53::recordset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::waf::sizeconstraintset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::managedblockchain::member": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Blockchain/{size}/Arch_Amazon-Managed-Blockchain_{size}.{type}"
+  },
+  "aws::cloudwatch::dashboard": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::ecs::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::servicecatalog::serviceactionassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::iam::policy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::sagemaker::featuregroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::networkmanager::link": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::stepfunctions::activity": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-Step-Functions_{size}.{type}"
+  },
+  "aws::cloudfront::keygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::codestarconnections::connection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeStar_{size}.{type}"
+  },
+  "aws::kinesisanalytics::applicationoutput": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::cloudformation::stackset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::cognito::userpoolriskconfigurationattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::appstream::stack": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::glue::schemaversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::ec2::volume": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayroutetableassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::appsync::graphqlschema": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::groundstation::config": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Satellite/{size}/Arch_AWS-Ground-Station_{size}.{type}"
+  },
+  "aws::iam::servicelinkedrole": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::servicecatalog::resourceupdateconstraint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::greengrass::connectordefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::appsync::graphqlapi": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::cloudfront::streamingdistribution": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::sagemaker::dataqualityjobdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::cognito::userpoolidentityprovider": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::acmpca::certificateauthorityactivation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Certificate-Manager_{size}.{type}"
+  },
+  "aws::guardduty::filter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::budgets::budgetsaction": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_AWS-Cost-Management/{size}/Arch_AWS-Budgets_{size}.{type}"
+  },
+  "aws::lakeformation::resource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Lake-Formation_{size}.{type}"
+  },
+  "aws::s3::accesspoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Simple-Storage-Service_{size}.{type}"
+  },
+  "aws::sns::subscription": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-Simple-Notification-Service_{size}.{type}"
+  },
+  "aws::efs::mounttarget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Elastic-File-System_{size}.{type}"
+  },
+  "aws::glue::datacatalogencryptionsettings": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::sns::topic": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-Simple-Notification-Service_{size}.{type}"
+  },
+  "aws::servicecatalog::tagoption": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::sagemaker::notebookinstancelifecycleconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::mediaconnect::flowsource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Connect_{size}.{type}"
+  },
+  "aws::quicksight::dashboard": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::cognito::userpoolgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::apigateway::deployment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::lakeformation::permissions": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Lake-Formation_{size}.{type}"
+  },
+  "aws::kms::key": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Key-Management-Service_{size}.{type}"
+  },
+  "aws::redshift::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Redshift_{size}.{type}"
+  },
+  "aws::applicationinsights::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-Application-Auto-Scaling_{size}.{type}"
+  },
+  "aws::customerprofiles::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_AWS-Cost-Management/{size}/Arch_AWS-Custom-Billing-Manager_{size}.{type}"
+  },
+  "aws::nimblestudio::streamingimage": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::opsworks::app": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::sagemaker::monitoringschedule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::eks::nodegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-EKS-Cloud_{size}.{type}"
+  },
+  "aws::lambda::eventsourcemapping": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::appmesh::route": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::apigatewayv2::apigatewaymanagedoverrides": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::appconfig::deployment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::ce::costcategory": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_NICE-DCV_{size}.{type}"
+  },
+  "aws::apigateway::authorizer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ec2::eip": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::localgatewayroute": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::iot1click::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-1-Click_{size}.{type}"
+  },
+  "aws::iot::custommetric": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::mediaconvert::queue": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaConvert_{size}.{type}"
+  },
+  "aws::apigateway::domainname": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::qldb::stream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Shield_{size}.{type}"
+  },
+  "aws::wafregional::geomatchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::wafv2::regexpatternset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::batch::jobdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Batch_{size}.{type}"
+  },
+  "aws::databrew::dataset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue-DataBrew_{size}.{type}"
+  },
+  "aws::gamelift::fleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::ec2::vpcendpointconnectionnotification": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::lambda::layerversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::networkmanager::customergatewayassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::apigateway::documentationpart": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::cloudfront::cachepolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::appmesh::gatewayroute": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::elasticache::user": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::sagemaker::userprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::rds::dbsubnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::elasticloadbalancing::loadbalancer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::lakeformation::datalakesettings": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Lake-Formation_{size}.{type}"
+  },
+  "aws::iotfleethub::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Bottlerocket_{size}.{type}"
+  },
+  "aws::codeartifact::repository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeArtifact_{size}.{type}"
+  },
+  "aws::pinpoint::eventstream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::pinpointemail::configurationseteventdestination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::mwaa::environment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::apigatewayv2::stage": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::apigateway::model": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::sagemaker::modelexplainabilityjobdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::guardduty::threatintelset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::wafregional::regexpatternset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::mediapackage::packaginggroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaPackage_{size}.{type}"
+  },
+  "aws::logs::metricfilter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::macie::session": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Macie_{size}.{type}"
+  },
+  "aws::ses::receiptfilter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::config::remediationconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::glue::workflow": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::groundstation::dataflowendpointgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Satellite/{size}/Arch_AWS-Ground-Station_{size}.{type}"
+  },
+  "aws::ec2::flowlog": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::secretsmanager::rotationschedule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::greengrass::resourcedefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::cognito::identitypool": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::elasticloadbalancingv2::loadbalancer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::iam::accesskey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::gamelift::matchmakingconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::codebuild::sourcecredential": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeBuild_{size}.{type}"
+  },
+  "aws::route53::dnssec": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::amazonmq::configurationassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_AWS-Panorama_{size}.{type}"
+  },
+  "aws::dms::replicationsubnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::ses::configurationseteventdestination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::ecs::capacityprovider": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::sagemaker::modelpackagegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::codebuild::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeBuild_{size}.{type}"
+  },
+  "aws::wafv2::ipset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::budgets::budget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_AWS-Cost-Management/{size}/Arch_AWS-Budgets_{size}.{type}"
+  },
+  "aws::s3objectlambda::accesspoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::route53resolver::firewallrulegroupassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::networkfirewall::rulegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Network-Firewall_{size}.{type}"
+  },
+  "aws::sns::topicpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-Simple-Notification-Service_{size}.{type}"
+  },
+  "aws::lambda::alias": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::elasticloadbalancingv2::listener": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::ec2::securitygroupegress": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::lambda::layerversionpermission": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::sagemaker::endpointconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::events::connection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::greengrass::devicedefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::stepfunctions::statemachine": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-Step-Functions_{size}.{type}"
+  },
+  "aws::iot::mitigationaction": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::codedeploy::deploymentconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeDeploy_{size}.{type}"
+  },
+  "aws::dms::eventsubscription": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::customerprofiles::integration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_AWS-Cost-Management/{size}/Arch_AWS-Custom-Billing-Manager_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::frauddetector::outcome": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::location::tracker": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::datasync::locationfsxwindows": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::dax::parametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::iot::securityprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::mediaconnect::flowvpcinterface": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Connect_{size}.{type}"
+  },
+  "aws::config::configurationaggregator": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::s3::storagelens": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Simple-Storage-Service_{size}.{type}"
+  },
+  "aws::ses::template": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::cloudfront::distribution": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::redshift::clusterparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Redshift_{size}.{type}"
+  },
+  "aws::datasync::locations3": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::location::map": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::elasticache::usergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::cloudtrail::trail": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudTrail_{size}.{type}"
+  },
+  "aws::neptune::dbclusterparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Neptune_{size}.{type}"
+  },
+  "aws::emr::instancegroupconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::elasticloadbalancingv2::listenerrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::codepipeline::pipeline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodePipeline_{size}.{type}"
+  },
+  "aws::mediaconnect::flowentitlement": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Connect_{size}.{type}"
+  },
+  "aws::iot::topicrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::docdb::dbinstance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DocumentDB_{size}.{type}"
+  },
+  "aws::opsworks::elasticloadbalancerattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::servicecatalogappregistry::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::wafregional::webaclassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::ssmcontacts::contact": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaConnect_{size}.{type}"
+  },
+  "aws::servicecatalog::cloudformationproduct": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::greengrassv2::componentversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::robomaker::simulationapplication": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::iotanalytics::channel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Analytics_{size}.{type}"
+  },
+  "aws::amplify::app": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_AWS-Amplify_{size}.{type}"
+  },
+  "aws::eventschemas::discoverer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::cloudwatch::anomalydetector": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::cloud9::environmentec2": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-Cloud9_{size}.{type}"
+  },
+  "aws::wafregional::webacl": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::cloudfront::cloudfrontoriginaccessidentity": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::sagemaker::endpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::location::geofencecollection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::sagemaker::modelbiasjobdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::appsync::apikey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::route53::hostedzone": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::pinpoint::emailtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::ec2::subnet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::codedeploy::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeDeploy_{size}.{type}"
+  },
+  "aws::servicecatalog::portfolioproductassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::ec2::transitgatewaymulticastdomainassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::iotwireless::serviceprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::servicediscovery::instance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Application-Discovery-Service_{size}.{type}"
+  },
+  "aws::appconfig::hostedconfigurationversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::ec2::carriergateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::mediaconvert::jobtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaConvert_{size}.{type}"
+  },
+  "aws::ec2::instance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::events::eventbuspolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::eks::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-EKS-Cloud_{size}.{type}"
+  },
+  "aws::cloudformation::stack": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::config::aggregationauthorization": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::waf::bytematchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::docdb::dbcluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DocumentDB_{size}.{type}"
+  },
+  "aws::rds::globalcluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::fis::experimenttemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Fault-Injection-Simulator_{size}.{type}"
+  },
+  "aws::dax::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::cloudwatch::compositealarm": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::ssm::patchbaseline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::iot::domainconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::kinesisanalyticsv2::applicationcloudwatchloggingoption": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::appmesh::virtualgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::guardduty::member": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::servicediscovery::service": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Application-Discovery-Service_{size}.{type}"
+  },
+  "aws::servicecatalog::acceptedportfolioshare": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::secretsmanager::resourcepolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::devopsguru::notificationchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-DevOps-Guru_{size}.{type}"
+  },
+  "aws::iotwireless::wirelessdevice": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::robomaker::simulationapplicationversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::auditmanager::assessment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Audit-Manager_{size}.{type}"
+  },
+  "aws::autoscaling::scalingpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::config::configurationrecorder": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::emr::step": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::backup::backupvault": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_AWS-Backup_{size}.{type}"
+  },
+  "aws::appconfig::configurationprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::iot1click::placement": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-1-Click_{size}.{type}"
+  },
+  "aws::ssm::maintenancewindowtarget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::iot::accountauditconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::ec2::dhcpoptions": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::usageplan": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ssmincidents::replicationset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Events_{size}.{type}"
+  },
+  "aws::iam::user": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::opsworks::instance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::cognito::userpoolresourceserver": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::ses::configurationset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::kms::replicakey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Key-Management-Service_{size}.{type}"
+  },
+  "aws::location::trackerconsumer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::cloudwatch::insightrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::managedblockchain::node": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Blockchain/{size}/Arch_Amazon-Managed-Blockchain_{size}.{type}"
+  },
+  "aws::detective::memberinvitation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Detective_{size}.{type}"
+  },
+  "aws::iotanalytics::datastore": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Analytics_{size}.{type}"
+  },
+  "aws::glue::job": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::s3::bucket": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Simple-Storage-Service_{size}.{type}"
+  },
+  "aws::sagemaker::modelqualityjobdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::lambda::version": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::synthetics::canary": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::databrew::recipe": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue-DataBrew_{size}.{type}"
+  },
+  "aws::sagemaker::notebookinstance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::wafv2::webaclassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::pinpoint::baiduchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::apigateway::basepathmapping": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::datasync::task": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::cognito::userpool": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::emr::studio": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::datasync::locationobjectstorage": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::ec2::egressonlyinternetgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::databrew::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue-DataBrew_{size}.{type}"
+  },
+  "aws::ivs::streamkey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_Amazon-Interactive-Video-Service_{size}.{type}"
+  },
+  "aws::events::apidestination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::apigatewayv2::api": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::dlm::lifecyclepolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-ThinkBox-Deadline_{size}.{type}"
+  },
+  "aws::rds::dbinstance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::ec2::networkinterfaceattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::wafregional::ipset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::robomaker::robotapplication": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::ec2::customergateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::servicediscovery::httpnamespace": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Application-Discovery-Service_{size}.{type}"
+  },
+  "aws::iotsitewise::asset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::sagemaker::coderepository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::apigateway::stage": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::sdb::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::cognito::userpoolclient": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::cloudformation::resourcedefaultversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::iotevents::input": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Events_{size}.{type}"
+  },
+  "aws::frauddetector::eventtype": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::ecr::repository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::gatewayresponse": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ec2::networkinsightspath": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::glue::database": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::apigatewayv2::routeresponse": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::apigateway::clientcertificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::iam::oidcprovider": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::greengrass::loggerdefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::lambda::codesigningconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::rds::dbsecuritygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::kms::alias": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Key-Management-Service_{size}.{type}"
+  },
+  "aws::quicksight::analysis": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::redshift::clustersubnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Redshift_{size}.{type}"
+  },
+  "aws::ec2::eipassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::vpngateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::iotwireless::wirelessgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::pinpoint::gcmchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::guardduty::detector": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::servicediscovery::privatednsnamespace": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Application-Discovery-Service_{size}.{type}"
+  },
+  "aws::iot::authorizer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::iam::virtualmfadevice": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::glue::devendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::codebuild::reportgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeBuild_{size}.{type}"
+  },
+  "aws::s3outposts::accesspoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Outposts_{size}.{type}"
+  },
+  "aws::mediapackage::originendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaPackage_{size}.{type}"
+  },
+  "aws::opsworks::userprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::frauddetector::detector": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::neptune::dbsubnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Neptune_{size}.{type}"
+  },
+  "aws::appstream::user": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::pinpointemail::dedicatedippool": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::kinesisanalyticsv2::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::ec2::vpnconnection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::route53resolver::resolverqueryloggingconfigassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::globalaccelerator::listener": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-Global-Accelerator_{size}.{type}"
+  },
+  "aws::appstream::fleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::fms::notificationchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::logs::subscriptionfilter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::servicecatalogappregistry::resourceassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::greengrass::functiondefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::eventschemas::registrypolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::amazonmq::configuration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_AWS-Panorama_{size}.{type}"
+  },
+  "aws::redshift::clustersecuritygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Redshift_{size}.{type}"
+  },
+  "aws::logs::destination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayroutetable": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::waf::xssmatchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::cloudfront::realtimelogconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::route53::healthcheck": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::medialive::channel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaLive_{size}.{type}"
+  },
+  "aws::s3outposts::bucket": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Outposts_{size}.{type}"
+  },
+  "aws::mediapackage::channel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaPackage_{size}.{type}"
+  },
+  "aws::networkmanager::device": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::rds::dbclusterparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::neptune::dbinstance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Neptune_{size}.{type}"
+  },
+  "aws::ec2::vpcendpointservice": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::glue::schemaversionmetadata": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::kinesis::streamconsumer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis_{size}.{type}"
+  },
+  "aws::networkfirewall::firewallpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Network-Firewall_{size}.{type}"
+  },
+  "aws::guardduty::master": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::s3::bucketpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Simple-Storage-Service_{size}.{type}"
+  },
+  "aws::cloudformation::customresource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::servicecatalog::stacksetconstraint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::glue::crawler": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::ec2::clientvpnroute": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::documentationversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::mediaconnect::flowoutput": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Connect_{size}.{type}"
+  },
+  "aws::ssm::maintenancewindowtask": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::servicecatalog::serviceaction": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::glue::mltransform": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::kendra::datasource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Kendra_{size}.{type}"
+  },
+  "aws::transfer::server": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Transfer-Family_{size}.{type}"
+  },
+  "aws::apigateway::usageplankey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::emr::securityconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::codegurureviewer::repositoryassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-CodeGuru_{size}.{type}"
+  },
+  "aws::cognito::userpoolusertogroupattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::pinpoint::apnschannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::iotsitewise::dashboard": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::nimblestudio::launchprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::robomaker::fleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::glue::classifier": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::elasticbeanstalk::configurationtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Elastic-Beanstalk_{size}.{type}"
+  },
+  "aws::amazonmq::broker": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_AWS-Panorama_{size}.{type}"
+  },
+  "aws::appsync::datasource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::servicecatalogappregistry::attributegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::ecs::primarytaskset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::greengrass::group": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::cognito::identitypoolroleattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::workspaces::connectionalias": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-WorkSpaces_{size}.{type}"
+  },
+  "aws::pinpointemail::identity": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::events::rule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::medialive::input": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaLive_{size}.{type}"
+  },
+  "aws::route53::keysigningkey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::iotcoredeviceadvisor::suitedefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Trusted-Advisor_{size}.{type}"
+  },
+  "aws::imagebuilder::component": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::ssmcontacts::contactchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaConnect_{size}.{type}"
+  },
+  "aws::codepipeline::customactiontype": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodePipeline_{size}.{type}"
+  },
+  "aws::appmesh::virtualnode": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::appmesh::virtualrouter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::greengrass::connectordefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::datasync::agent": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::ec2::placementgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::requestvalidator": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::wafregional::sizeconstraintset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::route53resolver::resolverdnssecconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::appmesh::virtualservice": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::rds::dbsecuritygroupingress": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::timestream::database": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::ec2::gatewayroutetableassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::kendra::faq": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Kendra_{size}.{type}"
+  },
+  "aws::iotthingsgraph::flowtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Things-Graph_{size}.{type}"
+  },
+  "aws::codepipeline::webhook": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodePipeline_{size}.{type}"
+  },
+  "aws::logs::loggroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::ssmincidents::responseplan": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Events_{size}.{type}"
+  },
+  "aws::datasync::locationefs": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::appstream::imagebuilder": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::autoscalingplans::scalingplan": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::imagebuilder::infrastructureconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::cloudwatch::metricstream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::wafregional::xssmatchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::ec2::networkaclentry": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::internetgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::elasticloadbalancingv2::listenercertificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::iam::role": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::neptune::dbparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Neptune_{size}.{type}"
+  },
+  "aws::eks::addon": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-EKS-Cloud_{size}.{type}"
+  },
+  "aws::macie::findingsfilter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Macie_{size}.{type}"
+  },
+  "aws::ec2::launchtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::events::archive": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::pinpoint::smstemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::iot::dimension": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::opsworks::volume": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::servicecatalog::tagoptionassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::acmpca::certificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Certificate-Manager_{size}.{type}"
+  },
+  "aws::sagemaker::appimageconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::glue::schema": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::quicksight::template": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::apigatewayv2::vpclink": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::quicksight::datasource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::servicecatalog::launchtemplateconstraint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::emr::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::sagemaker::pipeline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ec2::spotfleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::s3objectlambda::accesspointpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::sso::assignment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Personalize_{size}.{type}"
+  },
+  "aws::gamelift::alias": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::ec2::vpnconnectionroute": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::directoryservice::microsoftad": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Directory-Service_{size}.{type}"
+  },
+  "aws::waf::rule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::apigatewayv2::domainname": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::greengrass::functiondefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::ssm::document": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::config::deliverychannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::ec2::networkinterfacepermission": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::sagemaker::model": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ec2::trafficmirrorfilter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::gamelift::build": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::config::organizationconfigrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::ecr::replicationconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::qldb::ledger": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Shield_{size}.{type}"
+  },
+  "aws::licensemanager::license": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-License-Manager_{size}.{type}"
+  },
+  "aws::apigatewayv2::integration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::location::routecalculator": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::pinpoint::segment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::backup::backupselection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_AWS-Backup_{size}.{type}"
+  },
+  "aws::cloudwatch::alarm": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::iotsitewise::portal": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::route53resolver::firewalldomainlist": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::pinpoint::apnssandboxchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::pinpoint::admchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::certificatemanager::certificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Certificate-Manager_{size}.{type}"
+  },
+  "aws::greengrass::subscriptiondefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::greengrass::coredefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::ecr::publicrepository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::mediaconvert::preset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaConvert_{size}.{type}"
+  },
+  "aws::licensemanager::grant": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-License-Manager_{size}.{type}"
+  },
+  "aws::kendra::index": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Kendra_{size}.{type}"
+  },
+  "aws::codestarnotifications::notificationrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeStar_{size}.{type}"
+  },
+  "aws::iam::samlprovider": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::inspector::resourcegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Inspector_{size}.{type}"
+  },
+  "aws::emrcontainers::virtualcluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_AWS-Deep-Learning-Containers_{size}.{type}"
+  },
+  "aws::iotanalytics::dataset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Analytics_{size}.{type}"
+  },
+  "aws::networkfirewall::firewall": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Network-Firewall_{size}.{type}"
+  },
+  "aws::finspace::environment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Keyspaces_{size}.{type}"
+  },
+  "aws::xray::samplingrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-X-Ray_{size}.{type}"
+  },
+  "aws::iot::provisioningtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::docdb::dbsubnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DocumentDB_{size}.{type}"
+  },
+  "aws::servicecatalog::portfolioprincipalassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::gamelift::matchmakingruleset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::databrew::job": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue-DataBrew_{size}.{type}"
+  },
+  "aws::imagebuilder::imagepipeline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::ec2::securitygroupingress": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::transitgatewaymulticastgroupmember": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::pinpointemail::configurationset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "alexa::ask::skill": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Forecast_{size}.{type}"
+  },
+  "aws::rds::dbcluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::ec2::clientvpnendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ecs::service": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::iam::usertogroupaddition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::pinpoint::applicationsettings": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::opsworkscm::server": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::groundstation::missionprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Satellite/{size}/Arch_AWS-Ground-Station_{size}.{type}"
+  },
+  "aws::batch::jobqueue": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Batch_{size}.{type}"
+  },
+  "aws::iot::thing": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::opsworks::layer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::iotwireless::destination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::dms::certificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::apigateway::apikey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::timestream::table": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::ec2::subnetroutetableassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::glue::table": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::elasticache::securitygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::iot::policy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::iam::instanceprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::codedeploy::deploymentgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeDeploy_{size}.{type}"
+  },
+  "aws::mediaconnect::flow": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Connect_{size}.{type}"
+  },
+  "aws::batch::computeenvironment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Batch_{size}.{type}"
+  },
+  "aws::ec2::route": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::appflow::flow": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-AppFlow_{size}.{type}"
+  },
+  "aws::nimblestudio::studiocomponent": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::appstream::directoryconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::iotwireless::deviceprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::ec2::localgatewayroutetablevpcassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::gamelift::gamesessionqueue": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::apigateway::resource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::globalaccelerator::endpointgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-Global-Accelerator_{size}.{type}"
+  },
+  "aws::sagemaker::devicefleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::securityhub::hub": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Security-Hub_{size}.{type}"
+  },
+  "aws::iot1click::device": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-1-Click_{size}.{type}"
+  },
+  "aws::glue::connection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::macie::customdataidentifier": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Macie_{size}.{type}"
+  },
+  "aws::ecs::taskset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::wafv2::rulegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::elasticbeanstalk::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Elastic-Beanstalk_{size}.{type}"
+  },
+  "aws::servicecatalogappregistry::attributegroupassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::ses::receiptrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::customerprofiles::objecttype": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_AWS-Cost-Management/{size}/Arch_AWS-Custom-Billing-Manager_{size}.{type}"
+  },
+  "aws::nimblestudio::studio": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Timestream_{size}.{type}"
+  },
+  "aws::s3outposts::endpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Outposts_{size}.{type}"
+  },
+  "aws::frauddetector::label": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::appflow::connectorprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-AppFlow_{size}.{type}"
+  },
+  "aws::wafv2::webacl": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::elasticache::subnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayroutetablepropagation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::sagemaker::app": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::wafregional::bytematchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::detective::graph": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Detective_{size}.{type}"
+  },
+  "aws::sagemaker::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ec2::networkinterface": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigatewayv2::deployment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::dax::subnetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::appconfig::environment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::fsx::filesystem": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-FSx_{size}.{type}"
+  },
+  "aws::opsworks::stack": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-OpsWorks_{size}.{type}"
+  },
+  "aws::iotsitewise::accesspolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::datapipeline::pipeline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Data-Pipeline_{size}.{type}"
+  },
+  "aws::ec2::transitgatewaymulticastgroupsource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::route53resolver::resolverrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::pinpoint::campaign": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::networkmanager::linkassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::ec2::clientvpnauthorizationrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::subnetnetworkaclassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::sagemaker::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::cur::reportdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Security-Hub_{size}.{type}"
+  },
+  "aws::gamelift::script": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::apigateway::account": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ec2::trafficmirrorsession": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::amplify::branch": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_AWS-Amplify_{size}.{type}"
+  },
+  "aws::greengrass::loggerdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::servicecatalog::launchroleconstraint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::servicecatalog::cloudformationprovisionedproduct": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::ec2::subnetcidrblock": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::autoscaling::lifecyclehook": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::medialive::inputsecuritygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaLive_{size}.{type}"
+  },
+  "aws::redshift::clustersecuritygroupingress": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Redshift_{size}.{type}"
+  },
+  "aws::elasticache::securitygroupingress": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::rds::optiongroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::ec2::natgateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::codeartifact::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeArtifact_{size}.{type}"
+  },
+  "aws::elasticache::replicationgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::cognito::userpooluser": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::apigatewayv2::model": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::appsync::functionconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::signer::signingprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Signer_{size}.{type}"
+  },
+  "aws::iotsitewise::gateway": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::cloudformation::waitcondition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::ec2::securitygroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::eks::fargateprofile": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-EKS-Cloud_{size}.{type}"
+  },
+  "aws::lookoutmetrics::anomalydetector": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Lookout-for-Metrics_{size}.{type}"
+  },
+  "aws::cloudfront::originrequestpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::cloudformation::resourceversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::wafregional::rule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::sso::permissionset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Personalize_{size}.{type}"
+  },
+  "aws::pinpoint::pushtemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::appconfig::deploymentstrategy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::ec2::trafficmirrorfilterrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::restapi": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::cloudfront::publickey": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::events::eventbus": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::lambda::eventinvokeconfig": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::databrew::schedule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue-DataBrew_{size}.{type}"
+  },
+  "aws::ec2::prefixlist": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::vpc": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::codeguruprofiler::profilinggroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-CodeGuru_{size}.{type}"
+  },
+  "aws::athena::datacatalog": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Athena_{size}.{type}"
+  },
+  "aws::networkfirewall::loggingconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Network-Firewall_{size}.{type}"
+  },
+  "aws::config::organizationconformancepack": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::kinesisanalyticsv2::applicationoutput": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::elasticache::parametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::networkmanager::globalnetwork": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::ivs::channel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_Amazon-Interactive-Video-Service_{size}.{type}"
+  },
+  "aws::sqs::queuepolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-Simple-Queue-Service_{size}.{type}"
+  },
+  "aws::networkmanager::transitgatewayregistration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::efs::filesystem": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Elastic-File-System_{size}.{type}"
+  },
+  "aws::waf::sqlinjectionmatchset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::applicationautoscaling::scalingpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-Application-Auto-Scaling_{size}.{type}"
+  },
+  "aws::codecommit::repository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeCommit_{size}.{type}"
+  },
+  "aws::secretsmanager::secret": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::iot::scheduledaudit": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::pinpoint::apnsvoipsandboxchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::servicecatalog::portfolio": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::emr::studiosessionmapping": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-EMR_{size}.{type}"
+  },
+  "aws::greengrass::coredefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::cognito::userpooluicustomizationattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::rds::dbparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::mediastore::container": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaStore_{size}.{type}"
+  },
+  "aws::appstream::stackfleetassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::logs::logstream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::athena::workgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Athena_{size}.{type}"
+  },
+  "aws::route53resolver::firewallrulegroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::robomaker::robotapplicationversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::rds::eventsubscription": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::elasticbeanstalk::environment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Elastic-Beanstalk_{size}.{type}"
+  },
+  "aws::lambda::function": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::iotanalytics::pipeline": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Analytics_{size}.{type}"
+  },
+  "aws::resourcegroups::group": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Resource-Access-Manager_{size}.{type}"
+  },
+  "aws::lookoutvision::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Lookout-for-Vision_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayroute": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::fms::policy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::transfer::user": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Transfer-Family_{size}.{type}"
+  },
+  "aws::eventschemas::schema": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::ec2::networkacl": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::iotsitewise::project": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-SiteWise_{size}.{type}"
+  },
+  "aws::imagebuilder::distributionconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::rds::dbproxy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::quicksight::dataset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::config::configrule": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::glue::partition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::ec2::vpngatewayroutepropagation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::clientvpntargetnetworkassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::waf::webacl": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-WAF_{size}.{type}"
+  },
+  "aws::appsync::apicache": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-AppSync_{size}.{type}"
+  },
+  "aws::neptune::dbcluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-Neptune_{size}.{type}"
+  },
+  "aws::apigatewayv2::authorizer": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::cloudformation::waitconditionhandle": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::iotwireless::partneraccount": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::autoscaling::warmpool": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::gamelift::gameservergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Game-Tech/{size}/Arch_Amazon-GameLift_{size}.{type}"
+  },
+  "aws::elasticache::globalreplicationgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::sagemaker::image": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::ssm::maintenancewindow": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::cloudformation::macro": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::ec2::transitgatewaymulticastdomain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::route53::recordsetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::cloudfront::function": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-CloudFront_{size}.{type}"
+  },
+  "aws::kinesisfirehose::deliverystream": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Firehose_{size}.{type}"
+  },
+  "aws::s3outposts::bucketpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Outposts_{size}.{type}"
+  },
+  "aws::ivs::playbackkeypair": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_Amazon-Interactive-Video-Service_{size}.{type}"
+  },
+  "aws::iam::managedpolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::greengrass::devicedefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::iot::policyprincipalattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::applicationautoscaling::scalabletarget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-Application-Auto-Scaling_{size}.{type}"
+  },
+  "aws::glue::registry": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::config::conformancepack": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::amplify::domain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_AWS-Amplify_{size}.{type}"
+  },
+  "aws::devopsguru::resourcecollection": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-DevOps-Guru_{size}.{type}"
+  },
+  "aws::ecs::clustercapacityproviderassociations": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::route53resolver::resolverruleassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::greengrass::subscriptiondefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::iotevents::detectormodel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Events_{size}.{type}"
+  },
+  "aws::apigateway::vpclink": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ec2::transitgatewaypeeringattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::kinesisanalyticsv2::applicationreferencedatasource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::ecr::registrypolicy": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::apigateway::method": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::dms::endpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::servicecatalog::launchnotificationconstraint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Service-Catalog_{size}.{type}"
+  },
+  "aws::ses::receiptruleset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Simple-Email-Service_{size}.{type}"
+  },
+  "aws::appstream::stackuserassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_End-User-Computing/{size}/Arch_Amazon-AppStream_{size}.{type}"
+  },
+  "aws::pinpoint::apnsvoipchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::directoryservice::simplead": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Directory-Service_{size}.{type}"
+  },
+  "aws::secretsmanager::secrettargetattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::greengrass::resourcedefinitionversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::ec2::volumeattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::pinpoint::emailchannel": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::ec2::networkinsightsanalysis": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ec2::host": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ecs::taskdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Containers/{size}/Arch_Amazon-Elastic-Container-Service_{size}.{type}"
+  },
+  "aws::apigatewayv2::integrationresponse": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::ce::anomalymonitor": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_NICE-DCV_{size}.{type}"
+  },
+  "aws::networkmanager::site": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Secrets-Manager_{size}.{type}"
+  },
+  "aws::iam::servercertificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Identity-and-Access-Management_{size}.{type}"
+  },
+  "aws::elasticache::cachecluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-ElastiCache_{size}.{type}"
+  },
+  "aws::sagemaker::device": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-SageMaker_{size}.{type}"
+  },
+  "aws::iot::thingprincipalattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::cognito::userpooldomain": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Cognito_{size}.{type}"
+  },
+  "aws::docdb::dbclusterparametergroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DocumentDB_{size}.{type}"
+  },
+  "aws::signer::profilepermission": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Signer_{size}.{type}"
+  },
+  "aws::cloudformation::moduledefaultversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::elasticbeanstalk::applicationversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Elastic-Beanstalk_{size}.{type}"
+  },
+  "aws::ec2::vpcendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::msk::cluster": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::iot::topicruledestination": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::elasticloadbalancingv2::targetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Elastic-Load-Balancing_{size}.{type}"
+  },
+  "aws::iotwireless::taskdefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::imagebuilder::containerrecipe": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::ec2::vpcgatewayattachment": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::robomaker::robot": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Robotics/{size}/Arch_AWS-RoboMaker_{size}.{type}"
+  },
+  "aws::datasync::locationsmb": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-DataSync_{size}.{type}"
+  },
+  "aws::glue::trigger": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::efs::accesspoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Storage/{size}/Arch_Amazon-Elastic-File-System_{size}.{type}"
+  },
+  "aws::ec2::vpccidrblock": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::ssm::parameter": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::appmesh::mesh": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_AWS-App-Mesh_{size}.{type}"
+  },
+  "aws::inspector::assessmenttemplate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Inspector_{size}.{type}"
+  },
+  "aws::rds::dbproxytargetgroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::kinesisanalytics::applicationreferencedatasource": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::ssm::resourcedatasync": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::appconfig::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-AppConfig_{size}.{type}"
+  },
+  "aws::kinesisanalytics::application": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Kinesis-Data-Analytics_{size}.{type}"
+  },
+  "aws::dynamodb::table": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::ec2::ec2fleet": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::pinpoint::app": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Business-Application/{size}/Arch_Amazon-Pinpoint_{size}.{type}"
+  },
+  "aws::cassandra::table": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Kendra_{size}.{type}"
+  },
+  "aws::apprunner::service": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Signer_{size}.{type}"
+  },
+  "aws::greengrass::groupversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Greengrass_{size}.{type}"
+  },
+  "aws::logs::querydefinition": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_Amazon-CloudWatch_{size}.{type}"
+  },
+  "aws::lambda::permission": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::iot::certificate": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Internet-of-Things/{size}/Arch_AWS-IoT-Core_{size}.{type}"
+  },
+  "aws::guardduty::ipset": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-GuardDuty_{size}.{type}"
+  },
+  "aws::dynamodb::globaltable": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::ssm::association": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::certificatemanager::account": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_AWS-Certificate-Manager_{size}.{type}"
+  },
+  "aws::imagebuilder::imagerecipe": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::codestar::githubrepository": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Developer-Tools/{size}/Arch_AWS-CodeStar_{size}.{type}"
+  },
+  "aws::athena::namedquery": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-Athena_{size}.{type}"
+  },
+  "aws::chatbot::slackchannelconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Chatbot_{size}.{type}"
+  },
+  "aws::cloudformation::moduleversion": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-CloudFormation_{size}.{type}"
+  },
+  "aws::ivs::recordingconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_Amazon-Interactive-Video-Service_{size}.{type}"
+  },
+  "aws::inspector::assessmenttarget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Security-Identity-Compliance/{size}/Arch_Amazon-Inspector_{size}.{type}"
+  },
+  "aws::autoscaling::autoscalinggroup": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::eventschemas::registry": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-EventBridge_{size}.{type}"
+  },
+  "aws::frauddetector::variable": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Fraud-Detector_{size}.{type}"
+  },
+  "aws::quicksight::theme": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_Amazon-QuickSight_{size}.{type}"
+  },
+  "aws::route53resolver::resolverendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Networking-Content/{size}/Arch_Amazon-Route-53_{size}.{type}"
+  },
+  "aws::imagebuilder::image": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2-Image-Builder_{size}.{type}"
+  },
+  "aws::cassandra::keyspace": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Kendra_{size}.{type}"
+  },
+  "aws::ec2::vpcdhcpoptionsassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::sso::instanceaccesscontrolattributeconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Machine-Learning/{size}/Arch_Amazon-Personalize_{size}.{type}"
+  },
+  "aws::dms::replicationtask": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::ec2::enclavecertificateiamroleassociation": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::servicediscovery::publicdnsnamespace": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Migration-Transfer/{size}/Arch_AWS-Application-Discovery-Service_{size}.{type}"
+  },
+  "aws::ce::anomalysubscription": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_NICE-DCV_{size}.{type}"
+  },
+  "aws::ec2::transitgatewayconnect": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::rds::dbproxyendpoint": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-RDS_{size}.{type}"
+  },
+  "aws::ec2::trafficmirrortarget": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_Amazon-EC2_{size}.{type}"
+  },
+  "aws::config::storedquery": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Config_{size}.{type}"
+  },
+  "aws::location::placeindex": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Front-End-Web-Mobile/{size}/Arch_Amazon-Location-Service_{size}.{type}"
+  },
+  "aws::mediapackage::packagingconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Media-Services/{size}/Arch_AWS-Elemental-MediaPackage_{size}.{type}"
+  },
+  "aws::dms::replicationinstance": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Systems-Manager_{size}.{type}"
+  },
+  "aws::glue::securityconfiguration": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Analytics/Arch_{size}/Arch_AWS-Glue_{size}.{type}"
+  },
+  "aws::apigatewayv2::apimapping": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::autoscaling::scheduledaction": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Management-Governance/{size}/Arch_AWS-Auto-Scaling_{size}.{type}"
+  },
+  "aws::serverless::function": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Compute/{size}/Arch_AWS-Lambda_{size}.{type}"
+  },
+  "aws::serverless::simpletable": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_Database/{size}/Arch_Amazon-DynamoDB_{size}.{type}"
+  },
+  "aws::serverless::statemachine": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_AWS-Step-Functions_{size}.{type}"
+  },
+  "aws::serverless::api": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  },
+  "aws::serverless::httpapi": {
+    "icon": "./icons/Architecture-Service-Icons/Arch_App-Integration/Arch_{size}/Arch_Amazon-API-Gateway_{size}.{type}"
+  }
+}
