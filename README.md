@@ -8,7 +8,7 @@ Simple library that takes a CloudFormation resource type as input and returns a 
 ## Example
 
 ```
-const { AWSIconDirectory } = require("aws-icons-directory)
+const AWSIconDirectory = require("aws-icons-directory)
 
 const svg = AWSIconDirectory.getSVG("AWS::DynamoDB::Table")
 
